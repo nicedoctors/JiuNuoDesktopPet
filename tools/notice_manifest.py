@@ -8,6 +8,7 @@ from pathlib import Path
 
 
 def verified_notices(root: Path) -> tuple[set[str], list[dict]]:
+    root = root.resolve()
     manifest = root / "packaging/third-party-notices.json"
     if not manifest.is_file():
         return set(), [{"file": "packaging/third-party-notices.json", "categories": ["missing-notice-manifest"]}]

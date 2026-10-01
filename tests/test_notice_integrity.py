@@ -48,6 +48,13 @@ class NoticeIntegrityTests(unittest.TestCase):
             notice.unlink()
             self.assertEqual(audit(root, [])["findings"][0]["categories"], ["notice-integrity"])
 
+    def test_noncanonical_root_uses_same_notice_boundary(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            self.fixture(root, "Copyright Example")
+            alias = root / "licenses" / ".."
+            self.assertEqual(audit(alias, [alias / "licenses/example.txt"])["findings"], [])
+
 
 if __name__ == "__main__":
     unittest.main()
