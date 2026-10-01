@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <JiuNuoRuntimeVersion>8.0.31</JiuNuoRuntimeVersion>
+    <RuntimeFrameworkVersion Condition="'$(SelfContained)' == 'true'">$(JiuNuoRuntimeVersion)</RuntimeFrameworkVersion>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,44 @@
+#pragma code_page(65001)
+#include <windows.h>
+
+#if defined(BEHAVIOR_CONTROL_LAUNCHER)
+#define LAUNCHER_DESCRIPTION "啾糯桌宠 · 行为控制版\0"
+#define LAUNCHER_FILENAME "啾糯桌宠-行为控制版.exe\0"
+#elif defined(FEATURE_TEST_LAUNCHER)
+#define LAUNCHER_DESCRIPTION "啾糯桌宠 · 菲比啾比专属功能测试\0"
+#define LAUNCHER_FILENAME "菲比啾比专属功能测试.exe\0"
+#else
+#define LAUNCHER_DESCRIPTION "啾糯桌宠启动器\0"
+#define LAUNCHER_FILENAME "啾糯桌宠.exe\0"
+#endif
+
+101 ICON "..\\assets\\pet.ico"
+
+1 VERSIONINFO
+ FILEVERSION 1,3,3,0
+ PRODUCTVERSION 1,3,3,0
+ FILEFLAGSMASK 0x3fL
+ FILEFLAGS 0x0L
+ FILEOS VOS_NT_WINDOWS32
+ FILETYPE VFT_APP
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "nicedoctors\0"
+            VALUE "FileDescription", LAUNCHER_DESCRIPTION
+            VALUE "FileVersion", "1.3.3.0\0"
+            VALUE "InternalName", LAUNCHER_FILENAME
+            VALUE "LegalCopyright", "Copyright © 2026 桃天帝不差\0"
+            VALUE "OriginalFilename", LAUNCHER_FILENAME
+            VALUE "ProductName", "啾糯桌宠\0"
+            VALUE "ProductVersion", "1.3.3.0\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0804, 1200
+    END
+END

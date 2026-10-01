@@ -1,0 +1,268 @@
+{
+  "allPassed": false,
+  "actions": [
+    {
+      "action": "lick",
+      "passedDeterministicChecks": false,
+      "maximumAdjacentCentroidMotion": 33.149,
+      "frames": [
+        {
+          "frame": 0,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            51,
+            59,
+            291,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 3,
+          "cornersClear": true
+        },
+        {
+          "frame": 1,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            49,
+            66,
+            292,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 3,
+          "cornersClear": true
+        },
+        {
+          "frame": 2,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            59,
+            119,
+            303,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 0,
+          "cornersClear": true
+        },
+        {
+          "frame": 3,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            58,
+            97,
+            346,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 2,
+          "cornersClear": true
+        },
+        {
+          "frame": 4,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            58,
+            88,
+            344,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 3,
+          "cornersClear": true
+        },
+        {
+          "frame": 5,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            56,
+            100,
+            331,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 0,
+          "cornersClear": true
+        },
+        {
+          "frame": 6,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            39,
+            103,
+            325,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 3,
+          "cornersClear": true
+        },
+        {
+          "frame": 7,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            42,
+            113,
+            359,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 1,
+          "cornersClear": true
+        },
+        {
+          "frame": 8,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            47,
+            96,
+            341,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 1,
+          "cornersClear": true
+        },
+        {
+          "frame": 9,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            60,
+            99,
+            330,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 1,
+          "cornersClear": true
+        },
+        {
+          "frame": 10,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            60,
+            103,
+            326,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 4,
+          "cornersClear": true
+        },
+        {
+          "frame": 11,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            63,
+            103,
+            329,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 4,
+          "cornersClear": true
+        },
+        {
+          "frame": 12,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            63,
+            94,
+            289,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 0,
+          "cornersClear": true
+        },
+        {
+          "frame": 13,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            65,
+            108,
+            323,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 0,
+          "cornersClear": true
+        },
+        {
+          "frame": 14,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            60,
+            72,
+            280,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 2,
+          "cornersClear": true
+        },
+        {
+          "frame": 15,
+          "size": [
+            384,
+            384
+          ],
+          "bbox": [
+            57,
+            71,
+            283,
+            374
+          ],
+          "meaningfulComponents": 1,
+          "magentaSpillPixels": 3,
+          "cornersClear": true
+        }
+      ]
+    }
+  ]
+}

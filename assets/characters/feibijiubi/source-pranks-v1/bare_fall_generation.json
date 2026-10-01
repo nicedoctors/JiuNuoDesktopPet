@@ -1,0 +1,22 @@
+{
+  "action": "bare_fall",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/bare_fall_prompt.txt",
+  "promptSha256": "061ff9c315df9471bf80e98b95ad3bd42a69c4bc745872a8c82a813ff1a76014",
+  "image": "source-pranks-v1/bare_fall_sheet_api.png",
+  "outputSha256": "d67983a6859424c1bd3818e194e103eb58d3338ddb393d2c64df737c2cec89fb",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:16:03.939Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

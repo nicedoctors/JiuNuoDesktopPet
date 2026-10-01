@@ -1,0 +1,22 @@
+{
+  "action": "lick",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/lick_prompt.txt",
+  "promptSha256": "c26cc87f6072370b6a194564255b494953bbce8e37e420428dc662c88a125d64",
+  "image": "source-api/lick_sheet_api.png",
+  "outputSha256": "45e02f422e038cfcf41758990b4891fbf710c745a689fd0291d538ae9b96e8cf",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:50:02.497Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

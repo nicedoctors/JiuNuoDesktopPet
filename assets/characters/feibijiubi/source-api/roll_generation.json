@@ -1,0 +1,22 @@
+{
+  "action": "roll",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/roll_prompt.txt",
+  "promptSha256": "ba07a584a62d3d9a6ae7308d25fb9e3253fa80e04faa914c5bb157eba3f852e0",
+  "image": "source-api/roll_sheet_api.png",
+  "outputSha256": "9bf9fb19a0f6ce5f28cf43bf880f4a97d7edeb47839865c418e05973bf4ff936",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:50:04.357Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

@@ -1,0 +1,22 @@
+{
+  "action": "punch",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/punch_prompt.txt",
+  "promptSha256": "54e091a3d4bbf8955fe6217a98ad78050969262a88fc06fb3e3a48b4c06d8914",
+  "image": "source-pranks-v1/punch_sheet_api.png",
+  "outputSha256": "d2fb51c71c6a9c0047611f418c04844aa6034e55bf665c8636cc4c09b023f92a",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T04:54:09.235Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

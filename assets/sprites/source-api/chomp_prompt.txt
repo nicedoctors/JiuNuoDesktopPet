@@ -1,0 +1,42 @@
+Use the uploaded character image as the strict identity and costume reference. Create a professional 2D game animation sprite sheet for exactly the same chibi girl: enormous rounded head, pale warm face, long fluffy gray-blue hair, red-and-white shrine-maiden-like outfit with the same large red bow, short dark skirt, and two tiny rounded feet. Extend the reference into a complete full body while preserving its design language.
+
+OUTPUT CONTRACT (must follow exactly):
+- one square 2048 x 2048 sprite sheet, exactly 4 columns by 4 rows, exactly 16 equal cells
+- animation order is left-to-right, then top-to-bottom
+- exactly one complete character in every cell
+- same character design, colors, costume, hair length, outline weight, body proportions and camera scale in all 16 cells
+- every frame is full body; both tiny feet remain clearly visible, including standing poses
+- both eyes preserve the reference's solid filled pink-to-pale-blue gradient with no separate pupils; never hollow, blank, white-only or transparent
+- consistent ground/baseline and generous equal padding; nothing touches or crosses a cell boundary
+- no captions, letters, numbers, labels, guides, borders, grid lines, props, particles, shadows, scenery or extra characters
+- every cell background is perfectly flat, uniform chroma magenta #FF00FF, with no texture, gradient, antialias haze, shadow or glow in the background
+- crisp clean anime line art, compact desktop-pet silhouette, very soft mochi/squishy body, cute and appetitive personality
+- poses and facial acting are exaggerated and readable at 128 pixels, but identity and costume do not drift
+- this is a coherent seamless 16-frame loop, not a collection of unrelated illustrations
+
+ANIMATION: one continuous, exceptionally cute and exaggerated 16-frame LEFT-FACING inhale-and-eat action. CONTINUITY IS THE HIGHEST PRIORITY. This must look like one animator drew consecutive in-between frames, never like 16 unrelated key poses. The invisible app icon is on the LEFT; the character remains on its RIGHT and faces LEFT.
+
+PERMANENT COMPOSITION LOCK: use exactly the same camera, character scale, head size, costume proportions and bottom contact point in every cell. From frames 3 through 11, keep her pelvis/feet anchored to the same point and move her head along one smooth shallow arc. Adjacent frames may change body rotation by at most 6 degrees, head position by at most 6 percent of head width, and silhouette size by at most 5 percent. Never independently recenter a pose. Never jump from standing to lying down, never teleport the head, never reverse facing direction, and never change from side-facing to front-facing during suction.
+
+MOUTH DESIGN: keep the normal rounded outer face silhouette with no muzzle or projection. During maximum suction, open a huge vertical rounded bean-shaped mouth INSIDE the left side of the round face, 52 to 60 percent of head height and 36 to 44 percent of head width. Show a thick soft peach-pink rim, warm coral/cherry-red inner mouth and a small lighter pink tongue at the bottom. The cavity is colorful, softly shaded and inviting, never black. Keep both pupil-less pink-to-pale-blue gradient eyes visible above and behind the mouth. The mouth center must remain in nearly the same place relative to the head from frames 6 through 10 so a real overlaid icon can enter it.
+
+EXACT FRAME-BY-FRAME IN-BETWEEN MAP:
+1 neutral greedy notice, mouth closed, hands low;
+2 hands lift slightly, shoulders rise, body compresses 4 percent;
+3 lean 6 degrees RIGHT, tiny anticipatory pout;
+4 lean 12 degrees RIGHT, mouth opens to 18 percent, hair lags slightly;
+5 lean 18 degrees RIGHT, mouth opens to 32 percent;
+6 lean 24 degrees RIGHT, mouth opens to 45 percent;
+7 lean 30 degrees RIGHT, mouth opens to 55 percent;
+8 lean 34 degrees RIGHT, mouth opens to 60 percent, strongest suction;
+9 hold almost the same pose as frame 8, mouth remains 60 percent, only hair and sleeves trail farther RIGHT;
+10 recoil gently to 30 degrees, mouth 52 percent, same feet and same mouth center;
+11 recoil to 24 degrees, mouth 38 percent as the invisible icon finishes entering;
+12 return toward 14 degrees, mouth closes and cheeks begin inflating;
+13 nearly upright, both cheeks visibly puffed;
+14 upright low mochi squash with larger puffed cheeks;
+15 smooth upward swallow stretch, no more than 12 percent taller than frame 14;
+16 settle into a smug sleepy satisfied standing pose with one hand near the fully clothed belly.
+
+The whole motion may be dramatic across all 16 frames, but every adjacent pair must be a small readable step. Exaggeration comes from cumulative lean, huge internal mouth opening, soft body compression, and delayed hair/bow/sleeve follow-through—not from teleporting or changing pose family. Keep both tiny feet visible in every frame. Draw absolutely no food, file, icon, prop, suction particles, motion marks or punctuation because the program overlays the real icon. STRICTLY FORBIDDEN: prone/lying pose, sudden sitting pose, sudden front view, tiny mouth in frames 7-10, protruding lips, stretched face, muzzle, snout, tube, trumpet, beak, external tunnel, black void, teeth, saliva, horror expression, missing eyes, new pupils, holding or gripping anything. Keep complete head, open mouth, hair, costume, hands and both feet inside every cell with generous magenta clearance.
+CRITICAL MAXIMUM-SUCTION EXIT: frames 8 and 9 must be near-duplicates with the same 60-percent open mouth, same head size, same face angle and same body anchor. Frame 10 must still have a very large 52-percent mouth; frame 11 must still have a clearly large 42-percent mouth. Reduce the opening by only about 8 to 10 percentage points per frame. Do not snap from the maximum mouth to a small O-mouth. Do not return upright until frame 12. The closing arc must be just as smooth and incremental as the opening arc.

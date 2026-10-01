@@ -1,0 +1,22 @@
+{
+  "action": "curious",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api-smooth-v2/curious_prompt.txt",
+  "promptSha256": "e96cceea3c29d158e165709fe0abb6b637e50f42df241fb9da46f10dfb0dc321",
+  "image": "source-api-smooth-v2/curious_sheet_api.png",
+  "outputSha256": "7bee90f39d7379ad3514599e54a53fb95e1baa00823b893fd0682fbe32ae184a",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:47:51.347Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

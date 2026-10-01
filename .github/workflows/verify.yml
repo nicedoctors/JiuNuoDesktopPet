@@ -1,0 +1,51 @@
+name: Verify source and portable package
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: windows-2022
+    timeout-minutes: 30
+    env:
+      PYTHONUTF8: '1'
+      DOTNET_CLI_TELEMETRY_OPTOUT: '1'
+      DOTNET_NOLOGO: '1'
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-dotnet@26b0ec14cb23fa6904739307f278c14f94c95bf1 # v5
+        with:
+          dotnet-version: '8.0.425'
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Install image checker
+        run: python -m pip install Pillow==12.3.0
+      - name: Privacy and license checks
+        run: |
+          python -m unittest discover -s tests -p "test_*.py"
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          python tools/public_privacy.py
+      - name: Scan Git history for secrets
+        run: |
+          $zip = Join-Path $env:RUNNER_TEMP 'gitleaks.zip'
+          Invoke-WebRequest 'https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x64.zip' -OutFile $zip
+          if ((Get-FileHash $zip -Algorithm SHA256).Hash -ne 'D29144DEFF3A68AA93CED33DDDF84B7FDC26070ADD4AA0F4513094C8332AFC4E') { throw 'Gitleaks checksum mismatch' }
+          $folder = Join-Path $env:RUNNER_TEMP 'gitleaks'
+          Expand-Archive -LiteralPath $zip -DestinationPath $folder
+          & (Join-Path $folder 'gitleaks.exe') git . --redact --no-banner
+      - name: Build and run headless tests
+        run: |
+          ./build.ps1
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          dotnet tests/SoftMochiPet.LogicTests/bin/Release/net8.0-windows/SoftMochiPet.LogicTests.dll
+      - name: Build and verify portable package
+        run: ./package.ps1

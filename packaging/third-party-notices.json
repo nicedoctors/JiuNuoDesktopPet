@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "file": "LICENSE",
+      "source": "https://github.com/polyformproject/polyform-licenses/blob/1.0.0/PolyForm-Noncommercial-1.0.0.md",
+      "version": "1.0.0",
+      "upstreamBlob": "5ecc88cfc4b1cff608ed640efe913c9dd97935c3",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "sha256": "c0ea4a896d2c8c394b29f9427589996db826cd501c512279ff0ed3ef48fabbe5",
+      "modifications": "none"
+    },
+    {
+      "file": "licenses/dotnet-runtime-LICENSE.TXT",
+      "source": "https://github.com/dotnet/runtime/blob/v8.0.31/LICENSE.TXT",
+      "version": "v8.0.31",
+      "upstreamBlob": "984713a49622a96da110443c15477613bc12656b",
+      "license": "MIT and bundled notices",
+      "sha256": "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310",
+      "modifications": "none"
+    },
+    {
+      "file": "licenses/dotnet-runtime-THIRD-PARTY-NOTICES.TXT",
+      "source": "https://github.com/dotnet/runtime/blob/v8.0.31/THIRD-PARTY-NOTICES.TXT",
+      "version": "v8.0.31",
+      "upstreamBlob": "9b4e777ca47a98312b4312d349ce1a7410493c71",
+      "license": "MIT and bundled notices",
+      "sha256": "97c1a7b3da6a4c6ad516448719f45114b41a4d4c5aa300a944476e2e4f5da438",
+      "modifications": "none"
+    },
+    {
+      "file": "licenses/dotnet-wpf-LICENSE.TXT",
+      "source": "https://github.com/dotnet/wpf/blob/v8.0.31/LICENSE.TXT",
+      "version": "v8.0.31",
+      "upstreamBlob": "a616ed188dfce68ee308f674350ad242d8588c2b",
+      "license": "MIT and bundled notices",
+      "sha256": "ae48df11a335dc1a615f4f938b69cba73bcf4485c4f97af49b38efb0f216353b",
+      "modifications": "none"
+    },
+    {
+      "file": "licenses/dotnet-wpf-THIRD-PARTY-NOTICES.TXT",
+      "source": "https://github.com/dotnet/wpf/blob/v8.0.31/THIRD-PARTY-NOTICES.TXT",
+      "version": "v8.0.31",
+      "upstreamBlob": "c2ce2452c1dd7ff03eb862e1d8cd8f6117cee05b",
+      "license": "MIT and bundled notices",
+      "sha256": "d23dba2fee20c6b59d8f7088ee9ed372459c952a319b7ca90f3eec370cc76eb9",
+      "modifications": "none"
+    },
+    {
+      "file": "licenses/dotnet-winforms-LICENSE.TXT",
+      "source": "https://github.com/dotnet/winforms/blob/v8.0.31/LICENSE.TXT",
+      "version": "v8.0.31",
+      "upstreamBlob": "a616ed188dfce68ee308f674350ad242d8588c2b",
+      "license": "MIT and bundled notices",
+      "sha256": "ae48df11a335dc1a615f4f938b69cba73bcf4485c4f97af49b38efb0f216353b",
+      "modifications": "none"
+    },
+    {
+      "file": "licenses/dotnet-winforms-THIRD-PARTY-NOTICES.TXT",
+      "source": "https://github.com/dotnet/winforms/blob/v8.0.31/THIRD-PARTY-NOTICES.TXT",
+      "version": "v8.0.31",
+      "upstreamBlob": "a7f3c5d58ca200979014b07dc012b8872ff6efc7",
+      "license": "MIT and bundled notices",
+      "sha256": "d68d386849444fab1012e84beb398aeca4aaa3d50e753e9f218242b3753aa28f",
+      "modifications": "none"
+    },
+    {
+      "file": "licenses/llvm-mingw-LICENSE.TXT",
+      "source": "https://github.com/mstorsjo/llvm-mingw/releases/tag/20260616",
+      "archivePath": "LICENSE.TXT",
+      "version": "20260616-ucrt-x86_64",
+      "license": "Apache-2.0 WITH LLVM-exception",
+      "sha256": "8d85c1057d742e597985c7d4e6320b015a9139385cff4cbae06ffc0ebe89afee",
+      "modifications": "none"
+    },
+    {
+      "file": "licenses/mingw-w64-runtime-COPYING.txt",
+      "source": "https://github.com/mstorsjo/llvm-mingw/releases/tag/20260616",
+      "archivePath": "x86_64-w64-mingw32/share/mingw32/COPYING.MinGW-w64-runtime.txt",
+      "version": "20260616-ucrt-x86_64",
+      "license": "MinGW-w64 runtime notices",
+      "sha256": "1db8da07b436c68833c0673ffee3d9fcb2526047f3820b81661865dfedc79a1f",
+      "modifications": "none"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+Use the uploaded character image as the strict identity and costume reference. Create a professional 2D game animation sprite sheet for exactly the same chibi girl: enormous rounded head, pale warm face, long fluffy gray-blue hair, red-and-white shrine-maiden-like outfit with the same large red bow, short dark skirt, and two tiny rounded feet. Extend the reference into a complete full body while preserving its design language.
+
+OUTPUT CONTRACT (must follow exactly):
+- one square 2048 x 2048 sprite sheet, exactly 4 columns by 4 rows, exactly 16 equal cells
+- animation order is left-to-right, then top-to-bottom
+- exactly one complete character in every cell
+- same character design, colors, costume, hair length, outline weight, body proportions and camera scale in all 16 cells
+- every frame is full body; both tiny feet remain clearly visible, including standing poses
+- both eyes preserve the reference's solid filled pink-to-pale-blue gradient with no separate pupils; never hollow, blank, white-only or transparent
+- consistent ground/baseline and generous equal padding; nothing touches or crosses a cell boundary
+- no captions, letters, numbers, labels, guides, borders, grid lines, props, particles, shadows, scenery or extra characters
+- every cell background is perfectly flat, uniform chroma magenta #FF00FF, with no texture, gradient, antialias haze, shadow or glow in the background
+- crisp clean anime line art, compact desktop-pet silhouette, very soft mochi/squishy body, cute and appetitive personality
+- poses and facial acting are exaggerated and readable at 128 pixels, but identity and costume do not drift
+- this is one coherent continuous 16-frame animation, not a collection of unrelated illustrations; looping actions must connect frame 16 smoothly back to frame 1
+- in every cell the complete silhouette occupies at most 68 percent of cell height and 74 percent of cell width, with at least 14 percent empty magenta above the highest hair point and generous side clearance; never crop the head, hair, sleeves or feet
+
+ANIMATION: a non-looping lie-down transition followed by a seamless side-lying sleep-breathing loop, designed for a tiny creature sleeping directly on an invisible Windows window ledge. The window, floor, pillow and blanket are NOT drawn. Preserve the exact character, gray-blue hair, red-and-white outfit, large red bow and filled pupil-less gradient eyes.
+
+COMPOSITION AND CONTACT: keep one fixed camera and one fixed invisible floor baseline. The complete character must remain inside every cell with generous magenta space above and on both sides. During the lying pose, arrange the long hair and outfit into one compact connected horizontal mochi silhouette no wider than 72 percent of the cell. Both tiny feet are clearly visible in all standing/crouching transition frames; in the final lying frames at least one foot remains visibly peeking from beneath the skirt/hair. Never crop the head, hair, bow, hands or feet. No detached hair clumps or accessories.
+
+EXACT FLOW: frame 1 normal upright sleepy stance with both feet visible; frame 2 eyelids droop and shoulders sink; frame 3 knees and whole body compress into a short round crouch; frame 4 she lowers one hand and tips gently to her RIGHT as one compact unit; frame 5 hip and hair make first soft floor contact; frame 6 rolls onto her side with head supported by the fluffy hair; frame 7 settles the skirt, bow and visible tiny foot; frame 8 reaches the final cozy side-lying pose. Frames 9-16 remain in that SAME side-lying pose and form a seamless breathing loop: belly/chest and cheeks expand only 3 percent, long hair and bow rise one beat late, then settle. Frames 9 and 16 are near-duplicates so the breathing loop is smooth. Eyes close into soft filled pink-blue-tinted crescents, mouth is a tiny warm sleepy curve.
+
+The movement must read as soft, safe, cuddly and Q-bouncy—not collapsed, injured or unconscious. Adjacent frames are true in-betweens with no teleporting, camera recentering or sudden scale change. STRICTLY FORBIDDEN: standing sleep after frame 8, face-down pose, exposed underwear or belly, bare skin added to the outfit, missing head, long neck, new pupils, hollow eyes, tears, drool, sleep bubble, Z letters, punctuation, pillow, blanket, bed, floor, shadow, props, particles, motion lines or extra characters.

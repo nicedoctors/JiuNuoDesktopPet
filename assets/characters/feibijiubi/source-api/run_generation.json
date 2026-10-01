@@ -1,0 +1,22 @@
+{
+  "action": "run",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/run_prompt.txt",
+  "promptSha256": "2fe83dab8daa0139a7f86c41f2c979c4b860228a4eee68266200ae6160dda993",
+  "image": "source-api/run_sheet_api.png",
+  "outputSha256": "87e181dc58c1958dec3682f166cff8073aee7ec90090530504e83f53cc203951",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:39:49.983Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

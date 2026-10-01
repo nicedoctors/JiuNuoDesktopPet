@@ -1,0 +1,22 @@
+{
+  "action": "sleep",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api-continuity-v2/sleep_prompt.txt",
+  "promptSha256": "afcc25c24f1c6b17c1a781ad8bab90fc3d6a96567f68fbe611954fca47074a5b",
+  "image": "source-api-continuity-v2/sleep_sheet_api.png",
+  "outputSha256": "7a8af94c6884798b7ddd9de8e4ee8af553226959a1f4f182b5b9144dc0281f62",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:51:51.223Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

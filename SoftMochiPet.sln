@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftMochiPet", "src\SoftMochiPet\SoftMochiPet.csproj", "{89F89DC3-9F48-4D2C-901A-F3B2B67813FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftMochiPet.LogicTests", "tests\SoftMochiPet.LogicTests\SoftMochiPet.LogicTests.csproj", "{B41B68BF-5C75-4AC7-9F9F-2AA17B18ED89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F89DC3-9F48-4D2C-901A-F3B2B67813FC}.Debug|x64.ActiveCfg = Debug|x64
+		{89F89DC3-9F48-4D2C-901A-F3B2B67813FC}.Debug|x64.Build.0 = Debug|x64
+		{89F89DC3-9F48-4D2C-901A-F3B2B67813FC}.Release|x64.ActiveCfg = Release|x64
+		{89F89DC3-9F48-4D2C-901A-F3B2B67813FC}.Release|x64.Build.0 = Release|x64
+		{B41B68BF-5C75-4AC7-9F9F-2AA17B18ED89}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B41B68BF-5C75-4AC7-9F9F-2AA17B18ED89}.Debug|x64.Build.0 = Debug|Any CPU
+		{B41B68BF-5C75-4AC7-9F9F-2AA17B18ED89}.Release|x64.ActiveCfg = Release|Any CPU
+		{B41B68BF-5C75-4AC7-9F9F-2AA17B18ED89}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

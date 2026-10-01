@@ -1,0 +1,22 @@
+{
+  "action": "hungry",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/hungry_prompt.txt",
+  "promptSha256": "10d38abce345615e3c14c7156570acaa65c4ddb4f0ae5a0512509fe95a5d278c",
+  "image": "source-api/hungry_sheet_api.png",
+  "outputSha256": "69dc390fce4229a05ad301384498bdb8070fc6577ca0534dbadec9587ae984e9",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:44:50.832Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

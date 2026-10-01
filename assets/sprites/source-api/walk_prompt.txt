@@ -1,0 +1,20 @@
+Use the uploaded character image as the strict identity and costume reference. Create a professional 2D game animation sprite sheet for exactly the same chibi girl: enormous rounded head, pale warm face, long fluffy gray-blue hair, red-and-white shrine-maiden-like outfit with the same large red bow, short dark skirt, and two tiny rounded feet. Extend the reference into a complete full body while preserving its design language.
+
+OUTPUT CONTRACT (must follow exactly):
+- one square 2048 x 2048 sprite sheet, exactly 4 columns by 4 rows, exactly 16 equal cells
+- animation order is left-to-right, then top-to-bottom
+- exactly one complete character in every cell
+- same character design, colors, costume, hair length, outline weight, body proportions and camera scale in all 16 cells
+- every frame is full body; both tiny feet remain clearly visible, including standing poses
+- both eyes preserve the reference's solid filled pink-to-pale-blue gradient with no separate pupils; never hollow, blank, white-only or transparent
+- consistent ground/baseline and generous equal padding; nothing touches or crosses a cell boundary
+- no captions, letters, numbers, labels, guides, borders, grid lines, props, particles, shadows, scenery or extra characters
+- every cell background is perfectly flat, uniform chroma magenta #FF00FF, with no texture, gradient, antialias haze, shadow or glow in the background
+- crisp clean anime line art, compact desktop-pet silhouette, very soft mochi/squishy body, cute and appetitive personality
+- poses and facial acting are exaggerated and readable at 128 pixels, but identity and costume do not drift
+- this is one coherent continuous 16-frame animation, not a collection of unrelated illustrations; looping actions must connect frame 16 smoothly back to frame 1
+- in every cell the complete silhouette occupies at most 68 percent of cell height and 74 percent of cell width, with at least 14 percent empty magenta above the highest hair point and generous side clearance; never crop the head, hair, sleeves or feet
+
+ANIMATION: a gentle, cute 16-frame walking loop for moving along the top edge of a Windows app window. She faces RIGHT; the program may mirror the finished frames. This is a slower everyday walk, clearly different from the existing fast hungry run. Keep one continuous camera, scale and foot baseline. The pupil-less pink-to-pale-blue gradient eyes stay calm and stable; no cursor tracking.
+
+FRAME FLOW: frames 1-2 soft anticipation with a tiny forward lean; frames 3-5 right foot takes one short step while the body compresses then rises; frames 6-8 weight settles with a plump mochi wobble and delayed hair/bow follow-through; frames 9-11 left foot takes the matching short step; frames 12-14 settle with the opposite hair/bow overshoot; frames 15-16 return smoothly to frame 1. Both tiny feet must remain clearly drawn and alternate contact without vanishing, merging or changing shape. Exaggerate the soft up-down bounce, cheek jiggle and sleeve lag, but keep adjacent frames incremental and the head center stable. Cute, relaxed and slightly hungry, never frantic. No running leap, no floating, no props, no particles, no motion lines, no text.

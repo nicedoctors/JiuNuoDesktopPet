@@ -1,0 +1,27 @@
+<Window x:Class="SoftMochiPet.SpeechBubbleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Width="184" Height="70"
+        WindowStartupLocation="Manual"
+        WindowStyle="None" ResizeMode="NoResize"
+        AllowsTransparency="True" Background="Transparent"
+        Topmost="True" ShowActivated="False" ShowInTaskbar="False"
+        Focusable="False" IsHitTestVisible="False">
+  <Grid>
+    <Border x:Name="BubblePanel"
+            Margin="3,2,3,12" Padding="12,8"
+            CornerRadius="16" Background="#F8FFFFFF"
+            BorderBrush="#DEB6C9" BorderThickness="1.5">
+      <TextBlock x:Name="LineText"
+                 FontFamily="Microsoft YaHei UI" FontSize="14"
+                 Foreground="#4D4455" FontWeight="Medium"
+                 TextAlignment="Center" TextWrapping="Wrap"
+                 TextTrimming="CharacterEllipsis"
+                 VerticalAlignment="Center" />
+    </Border>
+    <Path x:Name="BubbleTail" Data="M 0,0 L 18,0 L 9,10 Z"
+          HorizontalAlignment="Center" VerticalAlignment="Bottom"
+          Margin="0,0,0,3" Fill="#F8FFFFFF"
+          Stroke="#DEB6C9" StrokeThickness="1.5" />
+  </Grid>
+</Window>

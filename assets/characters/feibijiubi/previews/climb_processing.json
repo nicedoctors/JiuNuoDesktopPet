@@ -1,0 +1,234 @@
+{
+  "action": "climb",
+  "sourceImage": "source-api/climb_sheet_api.png",
+  "sourceSha256": "97bffec5a48928af9e1a7ad4b922987a0a1f76454e3f5f87a71d352b878bae93",
+  "originalSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "processor": "process_feibijiubi.py",
+  "frameCount": 16,
+  "frames": [
+    {
+      "frame": 0,
+      "sourceBounds": [
+        88,
+        68,
+        438,
+        486
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 0,
+      "keyframeSha256": "5f6207cf58d0af8d328d8a693082a1ccd18acd65e230ad7cfab0cf2d96508eb4",
+      "runtimeSha256": "70612a3548f54fc953ccc90fcde1beb5cacda03d4741b5ec4491b00be63877c4"
+    },
+    {
+      "frame": 1,
+      "sourceBounds": [
+        584,
+        68,
+        942,
+        484
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 1,
+      "keyframeSha256": "5528725f3d3991273298ba4517ac93db11d30d26cec2036143b20540a66bc057",
+      "runtimeSha256": "30f24941b38fdd4c0ac1db19212c13c5d01c97e6202b4676a445b69f5fd7063e"
+    },
+    {
+      "frame": 2,
+      "sourceBounds": [
+        1092,
+        68,
+        1428,
+        483
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 2,
+      "keyframeSha256": "3ea18f6134feb52e1dcbacf7845dcf9c10e86991e6c37b05a6938710e2a03f4a",
+      "runtimeSha256": "b414c9c782a072551672e4a83bec2d57fcb88c418e462e9de8eb4788a2db662d"
+    },
+    {
+      "frame": 3,
+      "sourceBounds": [
+        1586,
+        69,
+        1927,
+        483
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 3,
+      "keyframeSha256": "d7d8bff9cb4ced546db6723440bd6427c60fc994e0bd778b7640ee3cbec450e8",
+      "runtimeSha256": "376dce6583f661d62ab6de8b993519589a4019510ebf9d214b9a8e61bd73c57d"
+    },
+    {
+      "frame": 4,
+      "sourceBounds": [
+        91,
+        569,
+        431,
+        977
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 4,
+      "keyframeSha256": "45a89cbe6078256c53b22f9ba8bf977041925881293ed373453af1bb153a67a0",
+      "runtimeSha256": "0ccde7e4049c5e85700202985c1c877c5b6b93315e16cd9409add579c21458e4"
+    },
+    {
+      "frame": 5,
+      "sourceBounds": [
+        591,
+        567,
+        916,
+        976
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 5,
+      "keyframeSha256": "370456ad0e0affb18d8fec0b341f4e62c490066845b180e01966dc72039630a1",
+      "runtimeSha256": "7bc81443062ec54a71a94465a375c1c1c714baea729a2cbf3c3bd97d3fa998b1"
+    },
+    {
+      "frame": 6,
+      "sourceBounds": [
+        1095,
+        572,
+        1411,
+        964
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 6,
+      "keyframeSha256": "37a15d21c2c453ba31c98bfcb4710f621f0eeb91a96a2be74b290f940354eba3",
+      "runtimeSha256": "0456dda024030f442bbf41f4e595977b2192f77f344982b82df6a8f2e65ce86c"
+    },
+    {
+      "frame": 7,
+      "sourceBounds": [
+        1592,
+        568,
+        1902,
+        967
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 7,
+      "keyframeSha256": "d0262c176d2aea452ffbfd2e7b6783fea3180c021799201fb63695f032ac5b75",
+      "runtimeSha256": "2c5d8b76a6a70739c00164461902b6ed5de71cf1e53f9879ff4b0041af1a40d3"
+    },
+    {
+      "frame": 8,
+      "sourceBounds": [
+        114,
+        1067,
+        439,
+        1462
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 8,
+      "keyframeSha256": "4c9189d19e7d9326b41b21f0dfd64f878fba7d7035179166ecd5c6df134f4690",
+      "runtimeSha256": "0bb4699fd002363ecd1d5fbbe4407e343581dbc63caba15a20968b0f0564108d"
+    },
+    {
+      "frame": 9,
+      "sourceBounds": [
+        618,
+        1069,
+        937,
+        1461
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 9,
+      "keyframeSha256": "f52bee865e7e28ba5763a15256a9540b484970ce974956a0b6aaca4788992892",
+      "runtimeSha256": "27d641d4bc0f22e5ec181f97c25eaa97dedd69a7a0ad60a60b7b0bcdebd6117a"
+    },
+    {
+      "frame": 10,
+      "sourceBounds": [
+        1126,
+        1069,
+        1441,
+        1451
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 10,
+      "keyframeSha256": "4ea55310d79ded98d2b4463ed0bfccce4af6e438e71373c9b9dc39bee67b6381",
+      "runtimeSha256": "25d6c4bba512d63117d232ff5c38c51ced1c6cd63c18405848671f28a5a53ee4"
+    },
+    {
+      "frame": 11,
+      "sourceBounds": [
+        1623,
+        1070,
+        1935,
+        1451
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 11,
+      "keyframeSha256": "db0c913168f674af7030772a77f2636f3f4eb779463066e433a871307dbbc1ea",
+      "runtimeSha256": "5da2db3e0b33f964eb1cc3b4b8f8043607d5a923b40d0bc747b41481e87e1a5e"
+    },
+    {
+      "frame": 12,
+      "sourceBounds": [
+        138,
+        1558,
+        455,
+        1943
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 12,
+      "keyframeSha256": "1a7b46600768c2c8ae3ddf83432a7b0b07067ab072a756921a80ec2be59ad2e9",
+      "runtimeSha256": "c2c0a48ec00649593ac7f403ae53725dd04b17372d37378e3ce43720e40ef3a5"
+    },
+    {
+      "frame": 13,
+      "sourceBounds": [
+        638,
+        1560,
+        952,
+        1944
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 13,
+      "keyframeSha256": "9f42d6f615b76435354e34cea0a78a1124f0e9f2c25ce2dfc99278ceeb0ded00",
+      "runtimeSha256": "656852b958bf04dd99b4924bf11de2a6131a090a7cba5bebcacf1cf5d4ebeb0f"
+    },
+    {
+      "frame": 14,
+      "sourceBounds": [
+        1132,
+        1558,
+        1441,
+        1949
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 14,
+      "keyframeSha256": "6af67de92be91b0bdbfeb5d05c2b96b738932a6be987f4e5742f105e247af2d0",
+      "runtimeSha256": "737927789c33104e47fcc823e22b7d8a64380a81b39b27a4a8e93de4f782e357"
+    },
+    {
+      "frame": 15,
+      "sourceBounds": [
+        1623,
+        1561,
+        1937,
+        1948
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 15,
+      "keyframeSha256": "b27e100629118286f3d5a04e88d9349ec0ef87fe7c18ae2e01acf612db626476",
+      "runtimeSha256": "074921302473c58e04ea360ad5b5b23c392f6a158d2a8d596284e5a1b95f4d59"
+    }
+  ]
+}

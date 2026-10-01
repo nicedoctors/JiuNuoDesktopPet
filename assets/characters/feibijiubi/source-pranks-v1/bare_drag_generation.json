@@ -1,0 +1,22 @@
+{
+  "action": "bare_drag",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/bare_drag_prompt.txt",
+  "promptSha256": "2560d91d48055e78dc4111adc21bc4bb09fb560bd125b84ae998182d79039d92",
+  "image": "source-pranks-v1/bare_drag_sheet_api.png",
+  "outputSha256": "d2c68edbcf43ee21724c15c2272ca5764392648ef90d9598ec07679327e75297",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:13:50.337Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

@@ -1,0 +1,18 @@
+Required Notice: Copyright (c) 2026 桃天帝不差 / nicedoctors
+
+本项目中由维护者拥有并有权授权的程序代码、脚本及项目文档，
+采用 PolyForm Noncommercial License 1.0.0，完整条款见 LICENSE。
+允许条款范围内的非商业使用、研究、修改和再分发；商业使用不在授权范围内。
+分发时保留许可证、Required Notice 和适用的第三方声明。
+
+assets/、音效/ 中的图片、角色形象、音频及其衍生素材不适用上述代码许可。
+素材来源、制作贡献与待确认的权利见 ASSET_RIGHTS.md。
+本项目并非《鸣潮》或相关画师的官方软件，也不表示获得其背书。
+
+第三方软件及许可证原文保持原许可，不受本项目非商业条款限制。
+licenses/ 内含 .NET runtime、WPF、Windows Forms 及可选 LLVM-MinGW
+启动器工具链的许可证/声明。来源、固定版本与文件 SHA-256 见
+packaging/third-party-notices.json；许可证原文未经修改。
+
+由于代码许可限制商业用途，项目定位为“源码公开、非商业使用”，
+不使用“符合 OSI 定义的开源软件”描述该许可。

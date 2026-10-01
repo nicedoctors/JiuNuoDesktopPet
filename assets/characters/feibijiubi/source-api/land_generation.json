@@ -1,0 +1,22 @@
+{
+  "action": "land",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/land_prompt.txt",
+  "promptSha256": "2779bdf6465afeef3063019d27fd9af96576e9d73f91b867d964fd468fca32b0",
+  "image": "source-api/land_sheet_api.png",
+  "outputSha256": "ef8a3816a90dc06ccf82ae60bcfcf63aab718d11a1004651c2cbe0e2b123a743",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:41:55.86Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

@@ -1,0 +1,22 @@
+{
+  "action": "hat_pickup",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/hat_pickup_prompt.txt",
+  "promptSha256": "cc2f1002467bd30b02b8393ba5b525a93b3d9d6d08b00896f99ddcc13558ad27",
+  "image": "source-pranks-v1/hat_pickup_sheet_api.png",
+  "outputSha256": "c5027f5cbd6e5efb8d39342b22b9f4b100f121a8eb0856c234a8a6149d4cb39c",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:09:21.486Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

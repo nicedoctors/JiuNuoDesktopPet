@@ -1,0 +1,22 @@
+{
+  "action": "chomp",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/chomp_prompt.txt",
+  "promptSha256": "66f2125b66f1d564a3c8487f94ae5b67a5715526a367bbb92c9c40252b8990cb",
+  "image": "source-api/chomp_sheet_api.png",
+  "outputSha256": "06c16a714b875c125a35d2aa6a0efd62a066882473642db7baec17106d14ae71",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:50:29.681Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

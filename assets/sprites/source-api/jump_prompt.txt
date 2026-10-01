@@ -1,0 +1,24 @@
+Use the uploaded character image as the strict identity and costume reference. Create a professional 2D game animation sprite sheet for exactly the same chibi girl: enormous rounded head, pale warm face, long fluffy gray-blue hair, red-and-white shrine-maiden-like outfit with the same large red bow, short dark skirt, and two tiny rounded feet. Extend the reference into a complete full body while preserving its design language.
+
+OUTPUT CONTRACT (must follow exactly):
+- one square 2048 x 2048 sprite sheet, exactly 4 columns by 4 rows, exactly 16 equal cells
+- animation order is left-to-right, then top-to-bottom
+- exactly one complete character in every cell
+- same character design, colors, costume, hair length, outline weight, body proportions and camera scale in all 16 cells
+- every frame is full body; both tiny feet remain clearly visible, including standing poses
+- both eyes preserve the reference's solid filled pink-to-pale-blue gradient with no separate pupils; never hollow, blank, white-only or transparent
+- consistent ground/baseline and generous equal padding; nothing touches or crosses a cell boundary
+- no captions, letters, numbers, labels, guides, borders, grid lines, props, particles, shadows, scenery or extra characters
+- every cell background is perfectly flat, uniform chroma magenta #FF00FF, with no texture, gradient, antialias haze, shadow or glow in the background
+- crisp clean anime line art, compact desktop-pet silhouette, very soft mochi/squishy body, cute and appetitive personality
+- poses and facial acting are exaggerated and readable at 128 pixels, but identity and costume do not drift
+- this is one coherent continuous 16-frame animation, not a collection of unrelated illustrations; looping actions must connect frame 16 smoothly back to frame 1
+- in every cell the complete silhouette occupies at most 68 percent of cell height and 74 percent of cell width, with at least 14 percent empty magenta above the highest hair point and generous side clearance; never crop the head, hair, sleeves or feet
+
+ANIMATION: one non-looping 16-frame CUTE TERRAIN JUMP for a desktop pet leaping from one invisible Windows window edge toward another. She faces RIGHT; the program may mirror the finished frames and physically moves her along the ballistic arc. Draw NO window, ledge, ground, shadow or scenery. Keep one fixed camera and never translate the character across the cells.
+
+PHYSICS AND FLOW: frame 1 stable standing with both feet visible; frame 2 knees/body compress 5 percent; frame 3 deepest plump anticipation squash, hands and sleeves draw in; frame 4 elastic takeoff with both feet just leaving the invisible ledge; frames 5-7 compact upward flight, tiny feet tucked but still clearly drawn, hair and bow lag DOWN; frames 8-9 apex pose as one round buoyant mochi ball, cheeks puffed and limbs slightly open; frames 10-12 begin descending, feet extend to search for a landing while hair floats UP one beat late; frames 13-14 body stretches downward by at most 8 percent; frames 15-16 brace gently for the program's separate landing animation. Her expression changes from determined greedy delight to cute airborne surprise, with a small warm mouth and stable filled pupil-less gradient eyes.
+
+The huge head and tiny torso remain one compact connected unit; chin-to-bow spacing and head scale stay constant within 3 percent. Adjacent frames are true in-betweens with no teleporting or pose-family jump. Both tiny feet remain present in every frame even when tucked.
+
+STRICTLY FORBIDDEN: drawn platform, window, floor, shadow, speed lines, dust, arrows, particles, text, long neck, noodle torso, detached head, prone pose, new pupils, hollow eyes, tears, injury, cropped head/hair or missing feet.

@@ -1,0 +1,22 @@
+{
+  "action": "climb",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/climb_prompt.txt",
+  "promptSha256": "b659e4d89aa8ff4132bcebe6c09ca4df0b3b723a9453d7c1970256a286c99e2e",
+  "image": "source-api/climb_sheet_api.png",
+  "outputSha256": "97bffec5a48928af9e1a7ad4b922987a0a1f76454e3f5f87a71d352b878bae93",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:45:02.887Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

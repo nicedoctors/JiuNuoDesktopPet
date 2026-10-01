@@ -1,0 +1,22 @@
+{
+  "action": "walk",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/walk_prompt.txt",
+  "promptSha256": "ad3831cd4a78a7ea3a6d0114e30a3dd52622d84eb386c03146db1a331e21c5e7",
+  "image": "source-api/walk_sheet_api.png",
+  "outputSha256": "2723c37c19b79ae6887e1b33158aa613bcf3763fb2c231fd7d7b61198b5c28ea",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:39:28.41Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}
