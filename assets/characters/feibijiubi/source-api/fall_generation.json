@@ -1,0 +1,22 @@
+{
+  "action": "fall",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/fall_prompt.txt",
+  "promptSha256": "7791af69d8f6bef65226e2dc984a6988f60895ceafc6dda1c89c910fd51a8cfa",
+  "image": "source-api/fall_sheet_api.png",
+  "outputSha256": "3353a582507022a3378f445ff0d1c9ab764a018ab59d763d3327a98ab6696e34",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:41:58.357Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

@@ -1,0 +1,125 @@
+{
+  "allPassed": true,
+  "framesChecked": 544,
+  "actions": [
+    {
+      "action": "idle",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 31694
+    },
+    {
+      "action": "run",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 58714
+    },
+    {
+      "action": "walk",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 31719
+    },
+    {
+      "action": "toss",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 28963
+    },
+    {
+      "action": "fall",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 31425
+    },
+    {
+      "action": "land",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 32062
+    },
+    {
+      "action": "curious",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 31375
+    },
+    {
+      "action": "sleep",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 365
+    },
+    {
+      "action": "hungry",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 33594
+    },
+    {
+      "action": "climb",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 28608
+    },
+    {
+      "action": "drag",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 32011
+    },
+    {
+      "action": "jump",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 29611
+    },
+    {
+      "action": "slide",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 31120
+    },
+    {
+      "action": "roll",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 41653
+    },
+    {
+      "action": "lick",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 39961
+    },
+    {
+      "action": "chomp",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 30118
+    },
+    {
+      "action": "satisfied",
+      "framesChecked": 32,
+      "alphaUnchanged": true,
+      "onlyApprovedBoundaryRgbChanged": true,
+      "changedRgbPixels": 69170
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "action": "recoil",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/recoil_prompt.txt",
+  "promptSha256": "4a7352de8b017cb02b240f27c0e913c4611f2f366322648eef44deeac75339af",
+  "image": "source-pranks-v1/recoil_sheet_api.png",
+  "outputSha256": "0f88ab370d02cf79d1b8d6d1ea10fc651534011194e784e26d61759d696e1756",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:02:05.524Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

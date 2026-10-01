@@ -1,0 +1,22 @@
+{
+  "action": "hat_wear",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/hat_wear_prompt.txt",
+  "promptSha256": "f003fa379ed8e170282832f3925bffda0e893dc014c9ced6bd4da3332a4f74a4",
+  "image": "source-pranks-v1/hat_wear_sheet_api.png",
+  "outputSha256": "89c92f17040f2417b2baab610caf340a582e580d62c58bc82e4c670edb16c226",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:11:55.705Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

@@ -1,0 +1,234 @@
+{
+  "action": "sleep",
+  "sourceImage": "source-api-continuity-v2/sleep_sheet_api.png",
+  "sourceSha256": "7a8af94c6884798b7ddd9de8e4ee8af553226959a1f4f182b5b9144dc0281f62",
+  "originalSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "processor": "process_feibijiubi.py",
+  "frameCount": 16,
+  "frames": [
+    {
+      "frame": 0,
+      "sourceBounds": [
+        95,
+        84,
+        443,
+        496
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 0,
+      "keyframeSha256": "49b1bcd85b3c6123944a4d66b49ac2e7039b19c7a217aa8e1eb64142e970c294",
+      "runtimeSha256": "3ce25baa5472af0547e71a7af4f0d3cfe18fe566ca89b604fee5fddcc9b7c47b"
+    },
+    {
+      "frame": 1,
+      "sourceBounds": [
+        599,
+        107,
+        963,
+        486
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 1,
+      "keyframeSha256": "096f4e9193ddbc43096eb80f7cd3882f2e9d141a912dc6208d663d9e749e4c23",
+      "runtimeSha256": "e9f1446ee5cb02daec877471006a34f6a83ae5f29129dc4e20426c9abc0ec02d"
+    },
+    {
+      "frame": 2,
+      "sourceBounds": [
+        1073,
+        125,
+        1441,
+        485
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 2,
+      "keyframeSha256": "c991185090abad846ef5b4feeb5e07a910f4143dedeb8733fef8a81d907ad2fe",
+      "runtimeSha256": "a13a1d51bc1c27669c57c41c8edaf6c25ead8384372daecb363fc4d00cb829d1"
+    },
+    {
+      "frame": 3,
+      "sourceBounds": [
+        1534,
+        147,
+        1896,
+        482
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 3,
+      "keyframeSha256": "0a1f8be01e1017ee869d25cd23ddbc0b6c794eacd7a22ad9842c702db27c4005",
+      "runtimeSha256": "9ebd752e2200988e2753fd792239ddbae463c714f1da88c133225014e0953ba3"
+    },
+    {
+      "frame": 4,
+      "sourceBounds": [
+        114,
+        625,
+        478,
+        946
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 4,
+      "keyframeSha256": "2591d91174e1c7e4e23e5b7b19c932c08c69c308337a08254d8a26fd2c55202f",
+      "runtimeSha256": "cab0cf6010f12e487a028989583e7f035bf0db53c695bf54758405419873a59e"
+    },
+    {
+      "frame": 5,
+      "sourceBounds": [
+        612,
+        631,
+        981,
+        947
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 5,
+      "keyframeSha256": "bbfa05f4a21cd5048d9b04339b37c4bc9b88389bac7df64d41910526139232a1",
+      "runtimeSha256": "bdace61ed32a416335a9fbc977a45e7b07d8fdb5d75f808073fcdb10d74e412b"
+    },
+    {
+      "frame": 6,
+      "sourceBounds": [
+        1086,
+        628,
+        1450,
+        947
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 6,
+      "keyframeSha256": "3339a995c1203ccf8d1cbe32fb37ad07d5fde64abf2afabcf939bd42e385374e",
+      "runtimeSha256": "f63daa1063d32ffac6f47fe95bc4c2980ed11bf71004637725fb10acc009e700"
+    },
+    {
+      "frame": 7,
+      "sourceBounds": [
+        1551,
+        635,
+        1916,
+        948
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 7,
+      "keyframeSha256": "6617f24f0891271c917026398d22e2b642a7304b0d30998ae5cd4cd0a9189d98",
+      "runtimeSha256": "7b8827df257c8198296ef1660fffa0141b9ec2df638b1215b0af69c2466b5d9a"
+    },
+    {
+      "frame": 8,
+      "sourceBounds": [
+        98,
+        1126,
+        466,
+        1434
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 8,
+      "keyframeSha256": "8ed80220a2810644296fd2e68dee7aa4f74ef5630cdf0005285161d3f123be3e",
+      "runtimeSha256": "eb1e934bf2bd32c2d5877b2439224bb441d60f880f03f60bd6d770b426401765"
+    },
+    {
+      "frame": 9,
+      "sourceBounds": [
+        595,
+        1135,
+        966,
+        1437
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 9,
+      "keyframeSha256": "5bb8b9985d1cf13e94f58bacdc4263d85ef098cc745d2b3521167906d634bed1",
+      "runtimeSha256": "7faa061ce1e89879b0a8fc96b1243cd820eb90d8264f921be17e67a5b4a35bcd"
+    },
+    {
+      "frame": 10,
+      "sourceBounds": [
+        1084,
+        1138,
+        1455,
+        1437
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 10,
+      "keyframeSha256": "67ef9c4edaae0db954af4f74595e677347edf757a052205f4a2a14f365916e4f",
+      "runtimeSha256": "5937e6dce3deffad30a2c2b0d2ddf1fbe0d0f40c34534b4c7fadcf70a9f48f63"
+    },
+    {
+      "frame": 11,
+      "sourceBounds": [
+        1551,
+        1138,
+        1922,
+        1438
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 11,
+      "keyframeSha256": "76170315642bbfa4ed3cb13d71c555984b87e98848ba0dc590478973103c413b",
+      "runtimeSha256": "75b1b478c22ac7f521fce8e8b965263434d49805d0c6b1ccee2c1c74cff07e19"
+    },
+    {
+      "frame": 12,
+      "sourceBounds": [
+        96,
+        1604,
+        466,
+        1910
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 12,
+      "keyframeSha256": "0e97b2b79f09d177e258252ee9ba299d08490b7d11b021fbf4772518d2e6ca3d",
+      "runtimeSha256": "cc33b03402d0439756b07924a018b0686ead0fd56cfbd9d69c34538f5351242c"
+    },
+    {
+      "frame": 13,
+      "sourceBounds": [
+        593,
+        1604,
+        960,
+        1910
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 13,
+      "keyframeSha256": "0b0ea3c24d71423bd75bd33c7c98aa177906ab652ca8785a7116ef5b40a783ce",
+      "runtimeSha256": "cb3a86e313928c4941af1aab920500040b6a48157861977a1dc4046ae8b7a20a"
+    },
+    {
+      "frame": 14,
+      "sourceBounds": [
+        1080,
+        1605,
+        1447,
+        1910
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 14,
+      "keyframeSha256": "589614abed03362cc9d1e3ec6a674965ccc1331ed1d9de5e97eccf3c947c65d8",
+      "runtimeSha256": "b23da1944e5dbf59c93ee1a565344e6b5c899c64abf82e336e1b11b2bac6cadf"
+    },
+    {
+      "frame": 15,
+      "sourceBounds": [
+        1548,
+        1605,
+        1915,
+        1910
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 15,
+      "keyframeSha256": "09ccacf65ad4b573042c233941cd0dc1470afa84801805ee78cf7cd658677f27",
+      "runtimeSha256": "c7d9b1e8864590ec26d320117a9a8f76158c5cc17ef3af81e387568ca0a6b238"
+    }
+  ]
+}

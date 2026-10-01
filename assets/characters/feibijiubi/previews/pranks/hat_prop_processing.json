@@ -1,0 +1,16 @@
+{
+  "sourceImage": "source-pranks-v1/hat_prop_sheet_api.png",
+  "sourceSha256": "f3119a8ccb20bd22ebfced748294470155343c97b23eb368e9ad16504e990cb5",
+  "originalSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "sourceFrame": 8,
+  "runtimeSha256": "4df0c5217b1b1b8cc4683d2c82990936a831606f412be64737d6a10e6d5ba6b3",
+  "frame": 8,
+  "sourceBounds": [
+    40,
+    1228,
+    473,
+    1402
+  ],
+  "completeSourceSilhouette": true,
+  "crossesNominalCell": false
+}

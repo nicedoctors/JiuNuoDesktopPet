@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B0E3537C-155E-43BC-859A-58DF94278D39}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>NuonuoLauncher</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>$(ProjectDir)bin\$(Configuration)\$(Platform)\</OutDir>
+    <IntDir>$(ProjectDir)obj\$(Configuration)\$(Platform)\</IntDir>
+    <TargetName>啾糯桌宠</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(FeatureTestLauncher)'=='true'">
+    <OutDir>$(ProjectDir)bin\$(Configuration)\$(Platform)\FeatureTest\</OutDir>
+    <IntDir>$(ProjectDir)obj\$(Configuration)\$(Platform)\FeatureTest\</IntDir>
+    <TargetName>菲比啾比专属功能测试</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <Optimization>MinSpace</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_WIN32_WINNT=0x0A00;WINVER=0x0A00;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <AdditionalDependencies>pathcch.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <ResourceCompile>
+      <AdditionalOptions>/c 65001 %(AdditionalOptions)</AdditionalOptions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <PropertyGroup Condition="'$(BehaviorControlLauncher)'=='true'">
+    <OutDir>$(ProjectDir)bin\$(Configuration)\$(Platform)\BehaviorControl\</OutDir>
+    <IntDir>$(ProjectDir)obj\$(Configuration)\$(Platform)\BehaviorControl\</IntDir>
+    <TargetName>啾糯桌宠-行为控制版</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(BehaviorControlLauncher)'=='true'">
+    <ClCompile>
+      <PreprocessorDefinitions>BEHAVIOR_CONTROL_LAUNCHER;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>BEHAVIOR_CONTROL_LAUNCHER;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(FeatureTestLauncher)'=='true'">
+    <ClCompile>
+      <PreprocessorDefinitions>FEATURE_TEST_LAUNCHER;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>FEATURE_TEST_LAUNCHER;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="NuonuoLauncher.c" />
+    <ResourceCompile Include="NuonuoLauncher.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <Target Name="ValidateLauncherMode" BeforeTargets="PrepareForBuild"
+          Condition="'$(FeatureTestLauncher)'=='true' and '$(BehaviorControlLauncher)'=='true'">
+    <Error Text="FeatureTestLauncher and BehaviorControlLauncher are mutually exclusive." />
+  </Target>
+</Project>

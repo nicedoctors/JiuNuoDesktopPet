@@ -1,0 +1,346 @@
+{
+  "action": "bare_fall",
+  "sourceImage": "source-pranks-v1/bare_fall_sheet_api.png",
+  "sourceSha256": "d67983a6859424c1bd3818e194e103eb58d3338ddb393d2c64df737c2cec89fb",
+  "originalSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "processor": "process_feibijiubi_pranks.py",
+  "frameCount": 16,
+  "frames": [
+    {
+      "frame": 0,
+      "sourceBounds": [
+        118,
+        85,
+        451,
+        446
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0046656,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        76,
+        104
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 0,
+      "runtimeSha256": "b3186f332c37a97a29b7e84ec09a3f6420389e854c2923f7f84ad6c70bdaf2c2",
+      "keyframeSha256": "8c49df0dfc0183701e92622777b07799563464b440a22db5946f0bde512d5a4b"
+    },
+    {
+      "frame": 1,
+      "sourceBounds": [
+        609,
+        85,
+        943,
+        448
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0031056,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        76,
+        104
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 1,
+      "runtimeSha256": "871bfa956cc475c6b7280d55fba39067684267542201b721e41be00508c482fd",
+      "keyframeSha256": "1644847fe58b678de174025911c73cb355f2c3a57bfc67d242e0bce547fe07c8"
+    },
+    {
+      "frame": 2,
+      "sourceBounds": [
+        1101,
+        85,
+        1435,
+        446
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 0.9969136,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        77,
+        107
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 2,
+      "runtimeSha256": "9297d9c713bb14222ad89e361584fd60394f3abcf40ff10d9a6e6ed1fcd410b8",
+      "keyframeSha256": "39cb8bc0bcac2b4f24c9ce0420fdf8c6103d5530c015bb680883e3a04ef3b115"
+    },
+    {
+      "frame": 3,
+      "sourceBounds": [
+        1593,
+        85,
+        1926,
+        447
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 0.9969136,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        77,
+        106
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 3,
+      "runtimeSha256": "9fe4867175650ff853e43947c00ce1e8df7e30b46c3de85dda89779ff3f887ae",
+      "keyframeSha256": "aad37dc745c5235f04be9ff9df81039487ac756873081cbe8fa839cad814351e"
+    },
+    {
+      "frame": 4,
+      "sourceBounds": [
+        106,
+        594,
+        445,
+        918
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 0.9969136,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        75,
+        134
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 4,
+      "runtimeSha256": "14dbf2d49b39cc6102e38d6c965f70171f1f8760674d7751ef9ff62c145cf322",
+      "keyframeSha256": "8d42c00faefbce95f32cc4cd5dbc0d7e4bcdba0bf5d1f8aefcd0e186d4e3e643"
+    },
+    {
+      "frame": 5,
+      "sourceBounds": [
+        604,
+        600,
+        937,
+        925
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 0.9938462,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        79,
+        134
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 5,
+      "runtimeSha256": "67ea05f4b004cb5d7960fc132a242ae85185453f1d924dece9a5ade78f0a3ef0",
+      "keyframeSha256": "392eafef7ec4f57c9a229be00d4683a80f7f6776f4c813b0fa620161004a5723"
+    },
+    {
+      "frame": 6,
+      "sourceBounds": [
+        1097,
+        600,
+        1429,
+        926
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.009375,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        78,
+        130
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 6,
+      "runtimeSha256": "a77e8615e59dd27c5c6df490e1e1c6f05ee5f06fafd1dcbd242b60a484de6e6d",
+      "keyframeSha256": "ac4cd98ff07d44beddc6f4ddfc0ddb4b25696cb0d221d13bef52dce069a14142"
+    },
+    {
+      "frame": 7,
+      "sourceBounds": [
+        1589,
+        600,
+        1921,
+        926
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.009375,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        78,
+        130
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 7,
+      "runtimeSha256": "e84e36e898d067ec4d3a4a8a2b55e6cdcaf1486a5068c73891f088bd1001faa6",
+      "keyframeSha256": "fdbcb92a0d189278947327fb7014352a5f9a6a3e2f9ce313ddd608b271715347"
+    },
+    {
+      "frame": 8,
+      "sourceBounds": [
+        105,
+        1091,
+        439,
+        1458
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.009375,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        73,
+        99
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 8,
+      "runtimeSha256": "88ee71822f7ee7c68f8abe77576d44a445fc3261a8ca4a53e21889c368e0cc7c",
+      "keyframeSha256": "51cb2eb5d1c33ea85bfbec05445e569f34445fd86ca93393978ef1ee2ad1118e"
+    },
+    {
+      "frame": 9,
+      "sourceBounds": [
+        602,
+        1093,
+        933,
+        1457
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0125392,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        77,
+        100
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 9,
+      "runtimeSha256": "60c423f2f1738ddf9428cc4193ba736be5f1c718c1cc05151ef87593d070c337",
+      "keyframeSha256": "0d2d4a2ae94ec7f28609a57638912f92c46c75d3991b6650027617e6347bda64"
+    },
+    {
+      "frame": 10,
+      "sourceBounds": [
+        1094,
+        1093,
+        1426,
+        1457
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        78,
+        104
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 10,
+      "runtimeSha256": "bd2b06a6d0e2ac253e5e34b0d8e64919856e9e4167e005ec5b7a5a1aed65767e",
+      "keyframeSha256": "b7d4f0461d45912b3da65c357c1e42da697cc440fc9259ea1dd14d91e4dfa6b1"
+    },
+    {
+      "frame": 11,
+      "sourceBounds": [
+        1586,
+        1093,
+        1917,
+        1457
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        79,
+        104
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 11,
+      "runtimeSha256": "ff623069a7d627622b5195a91c6f5e2c3afa8df2026f8473f7186afd5eda8816",
+      "keyframeSha256": "cf938bb5f1097e67ca38d51cf3ab312c2b37f7fecb1c20c195d420778d890a60"
+    },
+    {
+      "frame": 12,
+      "sourceBounds": [
+        107,
+        1593,
+        439,
+        1959
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        77,
+        102
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 12,
+      "runtimeSha256": "241d94aac407d0ad1b8c4b13cd442667520b40ee63d2fa62e575101a666a31e7",
+      "keyframeSha256": "cde8e076c52e7c1de784c3658c8e8a079de8efecce7b45aa486efc0bd6719d25"
+    },
+    {
+      "frame": 13,
+      "sourceBounds": [
+        601,
+        1594,
+        932,
+        1959
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        78,
+        103
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 13,
+      "runtimeSha256": "bbc64447dbbd79a0c6f71ce60444d99b61860fe0476700ecf0bfbdb7cf796d02",
+      "keyframeSha256": "fb7fbaf5a99f2bc6dfcdc4d8501c3ce9294423a61c0bb28ff3681b82885503f4"
+    },
+    {
+      "frame": 14,
+      "sourceBounds": [
+        1093,
+        1595,
+        1425,
+        1959
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        78,
+        104
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 14,
+      "runtimeSha256": "db141a3c9f25a9b36c85237a96c0fe655eeff7e0150f4d991a85f405b6aba7e7",
+      "keyframeSha256": "c8ecb255867cb6eddad30bf5c08170bdcdded58bf0f85903d28295e620b9c784"
+    },
+    {
+      "frame": 15,
+      "sourceBounds": [
+        1585,
+        1595,
+        1917,
+        1959
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "uniformCameraScaleCorrection": 1.0,
+      "uniformClipScale": 0.7426901,
+      "runtimePlacement": [
+        78,
+        104
+      ],
+      "faceAnchorCanvasX": 256.0,
+      "sourceFrame": 15,
+      "runtimeSha256": "ac863d7bcb895dc61d8e8b6171a4dae468c12bb9aff80a9774b734d743754ed1",
+      "keyframeSha256": "93c005f0fb91a0fff61143103c7ca35440d379341fb2065b9254e3ba51e2a3c3"
+    }
+  ]
+}

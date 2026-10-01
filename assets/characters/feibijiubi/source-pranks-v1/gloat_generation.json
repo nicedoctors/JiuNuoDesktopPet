@@ -1,0 +1,22 @@
+{
+  "action": "gloat",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/gloat_prompt.txt",
+  "promptSha256": "9ee085d07fa76dc3078f40639882e213aa9e6556f1a88337d2e05c00264bbc9c",
+  "image": "source-pranks-v1/gloat_sheet_api.png",
+  "outputSha256": "099ad2d427540d5bd0d8530a8ee03d457ac666392c7bf949e296ce79cc0729f1",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:04:22.545Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

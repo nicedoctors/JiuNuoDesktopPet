@@ -1,0 +1,20 @@
+Use the uploaded character image as the strict identity and costume reference. Create a professional 2D game animation sprite sheet for exactly the same chibi girl: enormous rounded head, pale warm face, long fluffy gray-blue hair, red-and-white shrine-maiden-like outfit with the same large red bow, short dark skirt, and two tiny rounded feet. Extend the reference into a complete full body while preserving its design language.
+
+OUTPUT CONTRACT (must follow exactly):
+- one square 2048 x 2048 sprite sheet, exactly 4 columns by 4 rows, exactly 16 equal cells
+- animation order is left-to-right, then top-to-bottom
+- exactly one complete character in every cell
+- same character design, colors, costume, hair length, outline weight, body proportions and camera scale in all 16 cells
+- every frame is full body; both tiny feet remain clearly visible, including standing poses
+- both eyes preserve the reference's solid filled pink-to-pale-blue gradient with no separate pupils; never hollow, blank, white-only or transparent
+- consistent ground/baseline and generous equal padding; nothing touches or crosses a cell boundary
+- no captions, letters, numbers, labels, guides, borders, grid lines, props, particles, shadows, scenery or extra characters
+- every cell background is perfectly flat, uniform chroma magenta #FF00FF, with no texture, gradient, antialias haze, shadow or glow in the background
+- crisp clean anime line art, compact desktop-pet silhouette, very soft mochi/squishy body, cute and appetitive personality
+- poses and facial acting are exaggerated and readable at 128 pixels, but identity and costume do not drift
+- this is one coherent continuous 16-frame animation, not a collection of unrelated illustrations; looping actions must connect frame 16 smoothly back to frame 1
+- in every cell the complete silhouette occupies at most 68 percent of cell height and 74 percent of cell width, with at least 14 percent empty magenta above the highest hair point and generous side clearance; never crop the head, hair, sleeves or feet
+
+ANIMATION: a seamless 16-frame ADORABLY HUNGRY begging loop. She is greedy and food-motivated but never sad or distressed. Keep both feet planted and visible. Draw no food or file because actual deleted icons are supplied by the program. The pupil-less pink-to-pale-blue gradient eyes remain filled and stable with no cursor tracking.
+
+FRAME FLOW: frames 1-3 she notices her empty tummy, hands move toward the fully clothed belly and cheeks deflate into a tiny pout; frames 4-6 body compresses into a round pleading mochi and the big bow squishes softly; frames 7-9 strongest comic hunger pose—one hand hugs the clothed belly, the other reaches forward empty, head tilts, mouth becomes a cute warm bean-shaped pout; frames 10-12 she gives one exaggerated hopeful Q-bouncy rise with hair and sleeves following late; frames 13-16 settles into a smug determined little hungry stance that loops back to frame 1. Make the gesture bold and charming at 128 pixels, not ordinary. No exposed skin, ribs, sickness, tears, drool, tongue, food, bowl, icon, props, text, punctuation, particles or motion marks.

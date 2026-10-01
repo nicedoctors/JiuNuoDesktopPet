@@ -1,0 +1,466 @@
+{
+  "TargetLufs": -24,
+  "Tool": "ffmpeg version N-118714-ge934fd96c1-20250309 Copyright (c) 2000-2025 the FFmpeg developers",
+  "Clips": [
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_002.wav",
+      "Sha256": "e173de19ca827d8a277c76cd12d1bc046e4e31d95a3ce0161e4a649ef2909a26",
+      "IntegratedLufs": -32.61,
+      "TruePeakDbtp": -18.75,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -32.61
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_015.wav",
+      "Sha256": "0454ff0e4656ec01820ed7f86c221e67dd2683ded4cf0401ef02092b83f8d06d",
+      "IntegratedLufs": -23.61,
+      "TruePeakDbtp": -15.5,
+      "GainDb": -0.39,
+      "Gain": 0.9560927,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_017.wav",
+      "Sha256": "c19b83ed2218ba4a38a4da1e3744d96e96a5676d9a8387d079dd5612d17d552f",
+      "IntegratedLufs": -21.31,
+      "TruePeakDbtp": -15.04,
+      "GainDb": -2.69,
+      "Gain": 0.73366871,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_018.wav",
+      "Sha256": "bbe644af0205a74527eb27227d3fa1330c09fb05d2f05108a0ea707b5d806604",
+      "IntegratedLufs": -26.37,
+      "TruePeakDbtp": -14.27,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -26.37
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_019.wav",
+      "Sha256": "02e3d687eea0c07847b7097cd413bf031a316fb5dc8bb8c6cb4ef243bd50aa18",
+      "IntegratedLufs": -25.79,
+      "TruePeakDbtp": -13.86,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -25.79
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_024.wav",
+      "Sha256": "4ab2c3602fe11f83904b0480ca5d1d5e8f4abc78c9807bf09415e8517631d123",
+      "IntegratedLufs": -18.02,
+      "TruePeakDbtp": -10.29,
+      "GainDb": -5.98,
+      "Gain": 0.50234259,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_030.wav",
+      "Sha256": "98ecba24e4198a5a3dfa6333eb8857de4dd65a9b36a9eacf3aeacccde30e58a3",
+      "IntegratedLufs": -23.08,
+      "TruePeakDbtp": -15.15,
+      "GainDb": -0.92,
+      "Gain": 0.89949758,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_冷静.wav",
+      "Sha256": "bb830a106f377893acfe7fd495ccfe61af00329a72898fb1b5968821e5bfdf2e",
+      "IntegratedLufs": -26.24,
+      "TruePeakDbtp": -18.19,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -26.24
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_委屈.wav",
+      "Sha256": "30708c08c086db062a79ac3badc9b099d9907c63cb5772fb49eed0b66f55a77a",
+      "IntegratedLufs": -28.16,
+      "TruePeakDbtp": -18.9,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -28.16
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_快速.wav",
+      "Sha256": "9a4176a0a8ce2e187673e45d7a961f9a797d27a8a22588b0b7c17a98308eb4a4",
+      "IntegratedLufs": -18.95,
+      "TruePeakDbtp": -8.11,
+      "GainDb": -5.05,
+      "Gain": 0.55911353,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_惊恐_控制不住自己.wav",
+      "Sha256": "0e6ca487b2aebef064d8bb120e158fda24e779ff948423cd1d7dc17ec4012855",
+      "IntegratedLufs": -18.99,
+      "TruePeakDbtp": -8.18,
+      "GainDb": -5.01,
+      "Gain": 0.56169428,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_有点委屈.wav",
+      "Sha256": "1153e225cfe7e6f65001517b88e37c90bf74fe69fa2aec75f23a57dae0def68d",
+      "IntegratedLufs": -33.16,
+      "TruePeakDbtp": -24.73,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -33.16
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_正常.wav",
+      "Sha256": "2af6fff216ad6e05247e18d1db1a4b6d13912e184b51c6e1cad3a8af16e31525",
+      "IntegratedLufs": -22.4,
+      "TruePeakDbtp": -15.25,
+      "GainDb": -1.6,
+      "Gain": 0.83176377,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_正常02.wav",
+      "Sha256": "8b22f383aa12efab8b08583a433fcd710a453da778d765feee305980e86a20d0",
+      "IntegratedLufs": -25.48,
+      "TruePeakDbtp": -18.24,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -25.48
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_正常03.wav",
+      "Sha256": "8fcddcef7d3ebcefb707e30cf5e75c87e690b56bf90d9f28c1469b82962c3370",
+      "IntegratedLufs": -23.61,
+      "TruePeakDbtp": -16.04,
+      "GainDb": -0.39,
+      "Gain": 0.9560927,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_正常04.wav",
+      "Sha256": "e880f68d006b3a253ff0a1e2619d1b65579cabe644a92f101528d488a0817b7e",
+      "IntegratedLufs": -27.63,
+      "TruePeakDbtp": -19.15,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -27.63
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_疑问.wav",
+      "Sha256": "139eb38c8a886ddb45818a5c33d6a8c3ad262070df57150b67249bd7735da172",
+      "IntegratedLufs": -25.76,
+      "TruePeakDbtp": -12.83,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -25.76
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_积极.wav",
+      "Sha256": "17e5d337b148abedff2464380970496820cb9bbd111cc7f3131189193e346c11",
+      "IntegratedLufs": -22.11,
+      "TruePeakDbtp": -8.57,
+      "GainDb": -1.89,
+      "Gain": 0.80445175,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_表示肯定.wav",
+      "Sha256": "72ff87f38d0221eaca23487f418ac17dfbb765befbf6cf687d085ea179d0f92a",
+      "IntegratedLufs": -20.71,
+      "TruePeakDbtp": -13.2,
+      "GainDb": -3.29,
+      "Gain": 0.68469948,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_超级伤心.wav",
+      "Sha256": "c30c85d411771a2eb0ea055137fdbe8208c80cef7f3b18641d460af42cea8de5",
+      "IntegratedLufs": -18.14,
+      "TruePeakDbtp": -8.21,
+      "GainDb": -5.86,
+      "Gain": 0.50933087,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "nuonuo",
+      "File": "糯糯_软.wav",
+      "Sha256": "48d4cd55660908af27fa1f950efca2daeac26d47f2adf5d3d6c56c0aee49edf0",
+      "IntegratedLufs": -17.51,
+      "TruePeakDbtp": -9.78,
+      "GainDb": -6.49,
+      "Gain": 0.47369631,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_001.wav",
+      "Sha256": "b9c8528700d64aef5b123ac037d7660fca2e8dddbfaf1ba30a9f0529fabbaf2b",
+      "IntegratedLufs": -24.52,
+      "TruePeakDbtp": -11.46,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -24.52
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_004.wav",
+      "Sha256": "90bee22b62f1582c5b8135eed1f9dcd90f533c63c53cf6a32f98670e2d1374a2",
+      "IntegratedLufs": -21.44,
+      "TruePeakDbtp": -5.26,
+      "GainDb": -2.56,
+      "Gain": 0.74473197,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_006.wav",
+      "Sha256": "d7b3facb78ca2237dd46100799ed17bad59704029c8df5beaa3b0e3b0f8b5ddd",
+      "IntegratedLufs": -19.95,
+      "TruePeakDbtp": -6.02,
+      "GainDb": -4.05,
+      "Gain": 0.6273357,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_014.wav",
+      "Sha256": "103ab85d4c39009de9a038122275fe54f626ff4e2cd326fda60eb9472ad69213",
+      "IntegratedLufs": -16.36,
+      "TruePeakDbtp": -2.67,
+      "GainDb": -7.64,
+      "Gain": 0.41495404,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_017.wav",
+      "Sha256": "068da348109145fbd209cff52f674f395b08f2982c34cc490a8e91bfb09e61eb",
+      "IntegratedLufs": -21.68,
+      "TruePeakDbtp": -9.17,
+      "GainDb": -2.32,
+      "Gain": 0.76559661,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_034.wav",
+      "Sha256": "c899b7d1b8d6cf6fcd063c5cc164ba834c8b1a89562b1aed28018cd0876ac092",
+      "IntegratedLufs": -24.62,
+      "TruePeakDbtp": -9.58,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -24.62
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_039.wav",
+      "Sha256": "239d771b310b08ed9fa705f545c2e8dfcb56d27159809107863380de60b11f5d",
+      "IntegratedLufs": -21.04,
+      "TruePeakDbtp": -7.11,
+      "GainDb": -2.96,
+      "Gain": 0.71121351,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_041.wav",
+      "Sha256": "301145bf36e9f46d60bb80cd3dace2723cd56f2a4a8e994696946fe4f92e4da7",
+      "IntegratedLufs": -38.05,
+      "TruePeakDbtp": -25.85,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -38.05
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_047.wav",
+      "Sha256": "5767ae5373029844c752d8f2796aeb94dc8f6e165e360f3d6681a866f1a405cd",
+      "IntegratedLufs": -20.54,
+      "TruePeakDbtp": -6.5,
+      "GainDb": -3.46,
+      "Gain": 0.67142885,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_伤心难过.wav",
+      "Sha256": "b8980df1b2f2314b97a61ddf943d14587c5ef1b89f26b46e61b65ed93561d0fc",
+      "IntegratedLufs": -21.09,
+      "TruePeakDbtp": -9.28,
+      "GainDb": -2.91,
+      "Gain": 0.71531939,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_俏皮.wav",
+      "Sha256": "5b06b465c19b0b0ad1fd2e414ad79e31abb305ce59406aec5de9e663d15d72b9",
+      "IntegratedLufs": -26.8,
+      "TruePeakDbtp": -13.43,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -26.8
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_俏皮小声.wav",
+      "Sha256": "dddc09baf877e0c0cec438992488816e1e9d93b6c3f2ac3b394380672d4f4dcb",
+      "IntegratedLufs": -28.03,
+      "TruePeakDbtp": -16.51,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -28.03
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_兴奋.wav",
+      "Sha256": "1e9ca38049e339ab2a6aa3405ccace8cfa182bfe75698fb7d5818862b1bb6cb1",
+      "IntegratedLufs": -21.5,
+      "TruePeakDbtp": -7.18,
+      "GainDb": -2.5,
+      "Gain": 0.74989421,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_咬牙切齿.wav",
+      "Sha256": "9b5851f9fa0b863a8383aa34bcbc54e15302b9e8276b1a110c30768a517298bb",
+      "IntegratedLufs": -23.19,
+      "TruePeakDbtp": -9.47,
+      "GainDb": -0.81,
+      "Gain": 0.91096145,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_困倦.wav",
+      "Sha256": "6662d5bc45bb603ebadd0bcb5f9b60628427c8efc1c32e1052f2dbf4a054424c",
+      "IntegratedLufs": -29.41,
+      "TruePeakDbtp": -17.12,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -29.41
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_坠落.wav",
+      "Sha256": "b7aa9cb3346b709f8ba1ee1e731fa4786c5215237a3e4309081d955051e77fb4",
+      "IntegratedLufs": -17.55,
+      "TruePeakDbtp": -5.26,
+      "GainDb": -6.45,
+      "Gain": 0.47588279,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_失落轻声.wav",
+      "Sha256": "9aaf501d0efda81707e4f490b03d53905d099f30319ed2f05529be6dd9a8091b",
+      "IntegratedLufs": -38.37,
+      "TruePeakDbtp": -26.8,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -38.37
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_委屈.wav",
+      "Sha256": "15c17f544f1a77b9e4682e08cd60d925ba4dceb83e33dd40a3a3d6b41ec0c931",
+      "IntegratedLufs": -29.99,
+      "TruePeakDbtp": -18.92,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -29.99
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_小声俏皮.wav",
+      "Sha256": "ab74557eebbc102760a7c0ce74445612df7d09502f124c4e18c7df90fedb3dfb",
+      "IntegratedLufs": -29.56,
+      "TruePeakDbtp": -16.04,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -29.56
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_小声平静嘟哝.wav",
+      "Sha256": "e00bf65effd24f80145763b136e0f9c5e79075668dbd4a824b20a710e3486b06",
+      "IntegratedLufs": -27.95,
+      "TruePeakDbtp": -15.32,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -27.95
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_悄悄话.wav",
+      "Sha256": "ab59133c7ee8df8f45d21225cd377ad6897d9df8a13acfec792e85cee61a065f",
+      "IntegratedLufs": -32.44,
+      "TruePeakDbtp": -18.15,
+      "GainDb": 0,
+      "Gain": 1.0,
+      "BalancedLufs": -32.44
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_正常.wav",
+      "Sha256": "5136dabe15d0c2cd9b2146103ce8202269c969ff48d1502f19b86c649d2eefd7",
+      "IntegratedLufs": -21.6,
+      "TruePeakDbtp": -7.26,
+      "GainDb": -2.4,
+      "Gain": 0.75857758,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_疑惑.wav",
+      "Sha256": "dd506bb005c231d135d1662245603b6dea930e3c76076bf60920ef912379c9a6",
+      "IntegratedLufs": -23.58,
+      "TruePeakDbtp": -9.46,
+      "GainDb": -0.42,
+      "Gain": 0.95279616,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_积极.wav",
+      "Sha256": "94dfa7c5589b08109ea30c796f422a9caeac217b9345077b727c2b251b044eaf",
+      "IntegratedLufs": -20.04,
+      "TruePeakDbtp": -6.74,
+      "GainDb": -3.96,
+      "Gain": 0.63386971,
+      "BalancedLufs": -24.0
+    },
+    {
+      "Character": "feibijiubi",
+      "File": "菲比啾比_菲八啾比.wav",
+      "Sha256": "d4e687696790b103a73a8710d7ec78ed7bb84fdaa2c130e608974192254d5135",
+      "IntegratedLufs": -22.39,
+      "TruePeakDbtp": -9.6,
+      "GainDb": -1.61,
+      "Gain": 0.83080672,
+      "BalancedLufs": -24.0
+    }
+  ]
+}

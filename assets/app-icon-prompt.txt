@@ -1,0 +1,8 @@
+Use case: logo-brand
+Asset type: master artwork for a Windows desktop app icon and notification-area tray icon
+Primary request: create a compact, immediately recognizable icon portrait of the exact same chibi girl from the original reference image, known as 糯糯
+Input image: the original character image is the strict identity, face, hair, eye-color, costume, and line-art reference; never use a generated sprite sheet as input
+Scene/backdrop: genuinely transparent background with clean alpha; no square tile or colored plate
+Subject: centered close-up of her oversized rounded head plus enough upper chest to show the large red bow; fluffy gray-blue hair; pale warm face; both half-lidded eyes retain the solid pink-to-pale-blue filled gradient; tiny soft content smile
+Style: polished clean 2D chibi anime app icon, soft mochi-like and Q-bouncy, crisp dark outline, simplified forms and strong color separation readable at 16 to 32 pixels
+Constraints: preserve identity; one character only; no text, badge, prop, scenery, watermark, border, extra pupils, hollow eyes, white-only eyes, or photorealism

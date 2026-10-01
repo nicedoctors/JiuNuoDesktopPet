@@ -1,0 +1,22 @@
+{
+  "action": "bare_tear",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/bare_tear_prompt.txt",
+  "promptSha256": "5c6f12ba6bdfca7fa9c0c870649d1372d1b2932cbf66264ac8ebb4608e1b86c0",
+  "image": "source-pranks-v1/bare_tear_sheet_api.png",
+  "outputSha256": "32123bf32aaea82bcec5bf51b3e3c2730f71bcc8b18bf1c232403854e2bdac92",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:01:30.69Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

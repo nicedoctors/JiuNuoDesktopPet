@@ -1,0 +1,22 @@
+{
+  "action": "idle",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/idle_prompt.txt",
+  "promptSha256": "cdd163257f212c960a3366f69f8be89aa9e93ab9fa87ab81c0665ddf360ac61a",
+  "image": "source-api/idle_sheet_api.png",
+  "outputSha256": "dbd0bba95552ab168b078a21da5041ee63ca0ed06d36aff04b834e440475e8e1",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:34:42.64Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

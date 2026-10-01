@@ -1,0 +1,7 @@
+* text=auto eol=lf
+LICENSE -text -whitespace
+licenses/** -text -whitespace
+*.png binary
+*.gif binary
+*.ico binary
+*.wav binary

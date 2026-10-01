@@ -1,0 +1,506 @@
+{
+  "action": "lick",
+  "sourceImage": "source-api/lick_sheet_api.png",
+  "sourceSha256": "45e02f422e038cfcf41758990b4891fbf710c745a689fd0291d538ae9b96e8cf",
+  "originalSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "processor": "process_feibijiubi.py",
+  "frameCount": 16,
+  "frames": [
+    {
+      "frame": 0,
+      "sourceBounds": [
+        58,
+        49,
+        477,
+        526
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 0,
+      "keyframeSha256": "3dd27d7008d01665ee5dc11a2c77cccc94ada7c01357d0ac97c8110a59f6a3ab",
+      "runtimeSha256": "7a7d7c27989951809532e88fb840f39fa1e10f97e62e0f1a60d9d5670a06c0f0",
+      "mouthGeometry": {
+        "bbox": [
+          158,
+          220,
+          170,
+          225
+        ],
+        "center": [
+          164.0,
+          222.5
+        ],
+        "leftContact": [
+          158,
+          222.5
+        ],
+        "coloredArea": 51
+      }
+    },
+    {
+      "frame": 1,
+      "sourceBounds": [
+        566,
+        52,
+        965,
+        526
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 1,
+      "keyframeSha256": "df582bf2be2e35a45f62736f0a5c637a678ed23d05e0eae62831e4fbffc9aaa6",
+      "runtimeSha256": "aa3544996cb0415160cfc48f787270d0cf3c639b3def60b1bfc60f475a675fce",
+      "mouthGeometry": {
+        "bbox": [
+          149,
+          221,
+          161,
+          226
+        ],
+        "center": [
+          155.0,
+          223.5
+        ],
+        "leftContact": [
+          149,
+          223.5
+        ],
+        "coloredArea": 48
+      }
+    },
+    {
+      "frame": 2,
+      "sourceBounds": [
+        1063,
+        72,
+        1457,
+        526
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 2,
+      "keyframeSha256": "a4764292a67e92ea5480d17c7d896bee2b305bb955f47728f1cab5c9ccb78f0f",
+      "runtimeSha256": "553ec3f1f8f7522d072aa5281b433d67b0b2c928a3eafe7473a6aded1b71b865",
+      "mouthGeometry": {
+        "bbox": [
+          150,
+          231,
+          162,
+          236
+        ],
+        "center": [
+          156.0,
+          233.5
+        ],
+        "leftContact": [
+          150,
+          233.5
+        ],
+        "coloredArea": 49
+      }
+    },
+    {
+      "frame": 3,
+      "sourceBounds": [
+        1556,
+        84,
+        1951,
+        526
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 3,
+      "keyframeSha256": "8f7113c2f336611b39b765ebeec99087a68c21e62d4292ea682885be14cdab7a",
+      "runtimeSha256": "17398592cf385d18164890355775710ecf667f8a468dd7b7cfe8cd3aee328ae7",
+      "mouthGeometry": {
+        "bbox": [
+          147,
+          236,
+          162,
+          247
+        ],
+        "center": [
+          154.5,
+          241.5
+        ],
+        "leftContact": [
+          147,
+          241.5
+        ],
+        "coloredArea": 128
+      }
+    },
+    {
+      "frame": 4,
+      "sourceBounds": [
+        43,
+        598,
+        442,
+        1038
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 4,
+      "keyframeSha256": "5c86e7a537342371b6e5e6c8fe04753408c6268cdb84751e469d54ac1cc2584e",
+      "runtimeSha256": "8233bbf6ea1a4fecfbe2dd2d42310d91a14cbc445702a45189cffef710dbe931",
+      "mouthGeometry": {
+        "bbox": [
+          146,
+          237,
+          163,
+          252
+        ],
+        "center": [
+          154.5,
+          244.5
+        ],
+        "leftContact": [
+          146,
+          244.5
+        ],
+        "coloredArea": 160
+      }
+    },
+    {
+      "frame": 5,
+      "sourceBounds": [
+        537,
+        615,
+        935,
+        1039
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 5,
+      "keyframeSha256": "da951c142682c7b9ef53644ad886b786b44e2b7126884c040d65ca4bdf00e2ca",
+      "runtimeSha256": "a9e4b1b8ccd12b2365e7d5c07a911e8176c681a3063daac63c2e69ac825619a4",
+      "mouthGeometry": {
+        "bbox": [
+          115,
+          247,
+          156,
+          275
+        ],
+        "center": [
+          135.5,
+          261.0
+        ],
+        "leftContact": [
+          115,
+          261.0
+        ],
+        "coloredArea": 613
+      }
+    },
+    {
+      "frame": 6,
+      "sourceBounds": [
+        1058,
+        623,
+        1451,
+        1039
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 6,
+      "keyframeSha256": "c40b2196215f8cbed3d01257420b61826d896a52f78c5cba201cd122b005d745",
+      "runtimeSha256": "da810e626e5b481d87a5b4817a09efe580bf9e612dfed707a78f50c0faf71365",
+      "mouthGeometry": {
+        "bbox": [
+          56,
+          249,
+          151,
+          288
+        ],
+        "center": [
+          103.5,
+          268.5
+        ],
+        "leftContact": [
+          56,
+          268.5
+        ],
+        "coloredArea": 1448
+      }
+    },
+    {
+      "frame": 7,
+      "sourceBounds": [
+        1563,
+        625,
+        1961,
+        1039
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": true,
+      "sourceFrame": 7,
+      "keyframeSha256": "d1073e05e8815bc184913c387a3e3b44ebae3eddc4ee95675e90e8e985e45c47",
+      "runtimeSha256": "1c7e9244742291f9de184efcb04e89293c3e830c6e763b9876ec0db458f3c53f",
+      "mouthGeometry": {
+        "bbox": [
+          71,
+          250,
+          155,
+          288
+        ],
+        "center": [
+          113.0,
+          269.0
+        ],
+        "leftContact": [
+          71,
+          269.0
+        ],
+        "coloredArea": 1182
+      }
+    },
+    {
+      "frame": 8,
+      "sourceBounds": [
+        61,
+        1109,
+        452,
+        1527
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 8,
+      "keyframeSha256": "2dbc2e78e7268d1ecd9ef29cf128018897c21aec94d7a568a0da3a26482e6757",
+      "runtimeSha256": "ef058904ec8fddb4cf5bdfd0685ff1e701b0b5724219061f1f4ee3dfd4f613da",
+      "mouthGeometry": {
+        "bbox": [
+          95,
+          246,
+          151,
+          279
+        ],
+        "center": [
+          123.0,
+          262.5
+        ],
+        "leftContact": [
+          95,
+          262.5
+        ],
+        "coloredArea": 766
+      }
+    },
+    {
+      "frame": 9,
+      "sourceBounds": [
+        561,
+        1112,
+        947,
+        1527
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 9,
+      "keyframeSha256": "3a33b60197bee66f8ebe366b42f3693da063d5693ff15dfb37df07d9cc57d2d5",
+      "runtimeSha256": "6b95c27e88fe328759c213255f518bd3edd36439cfe85b1d4ac13a033fda094e",
+      "mouthGeometry": {
+        "bbox": [
+          120,
+          251,
+          147,
+          269
+        ],
+        "center": [
+          133.5,
+          260.0
+        ],
+        "leftContact": [
+          120,
+          260.0
+        ],
+        "coloredArea": 257
+      }
+    },
+    {
+      "frame": 10,
+      "sourceBounds": [
+        1074,
+        1109,
+        1457,
+        1527
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 10,
+      "keyframeSha256": "f534fd9af2bc2b43a25e328fcddc902097fcc5f37af7e919ef7efa1231ac85fe",
+      "runtimeSha256": "8031cd4d3d59b3d30ac2d90d024e78b861d7eddd19626db047fd7c2175d0bb67",
+      "mouthGeometry": {
+        "bbox": [
+          149,
+          246,
+          160,
+          252
+        ],
+        "center": [
+          154.5,
+          249.0
+        ],
+        "leftContact": [
+          149,
+          249.0
+        ],
+        "coloredArea": 49
+      }
+    },
+    {
+      "frame": 11,
+      "sourceBounds": [
+        1570,
+        1127,
+        1933,
+        1528
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 11,
+      "keyframeSha256": "78d73df54b1edbf944351e11c7b83ea92911347337d1b6b7c3c3bda3574d1158",
+      "runtimeSha256": "3860a695be5d0d0c1f5398c81297a5fd7f27c84ebd56d9ec503a7cc47e0dbe89",
+      "mouthGeometry": {
+        "bbox": [
+          153,
+          251,
+          164,
+          256
+        ],
+        "center": [
+          158.5,
+          253.5
+        ],
+        "leftContact": [
+          153,
+          253.5
+        ],
+        "coloredArea": 40
+      }
+    },
+    {
+      "frame": 12,
+      "sourceBounds": [
+        84,
+        1602,
+        424,
+        2003
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 12,
+      "keyframeSha256": "4aa873841bb6ea8ac7cca22a98c586410b35bfdd86cd0f789447e21fefb763a1",
+      "runtimeSha256": "ef4b797ef08c3315956794f6699595f29efe7c9122c5728b8a1ae8777e5813a5",
+      "mouthGeometry": {
+        "bbox": [
+          208,
+          235,
+          217,
+          255
+        ],
+        "center": [
+          212.5,
+          245.0
+        ],
+        "leftContact": [
+          208,
+          245.0
+        ],
+        "coloredArea": 49
+      }
+    },
+    {
+      "frame": 13,
+      "sourceBounds": [
+        584,
+        1603,
+        919,
+        2003
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 13,
+      "keyframeSha256": "16b385cfe5b240fc8f036503337464b3f8498310563414ce8f52e517f66b7fbe",
+      "runtimeSha256": "ac41e0ed69e46952a46ef01616c15760fb6fb519ac3551872807791ca6f78aaf",
+      "mouthGeometry": {
+        "bbox": [
+          152,
+          245,
+          163,
+          249
+        ],
+        "center": [
+          157.5,
+          247.0
+        ],
+        "leftContact": [
+          152,
+          247.0
+        ],
+        "coloredArea": 40
+      }
+    },
+    {
+      "frame": 14,
+      "sourceBounds": [
+        1100,
+        1605,
+        1423,
+        2003
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 14,
+      "keyframeSha256": "ffd15d239b131b96f2e5fec16dca6e4ae3c6f76385df5a37c4dca9308e7b20bc",
+      "runtimeSha256": "28395fd0aa3da546116920700f7bbc8d871014ccbe35f13ad0f531e3fa60522e",
+      "mouthGeometry": {
+        "bbox": [
+          153,
+          242,
+          163,
+          247
+        ],
+        "center": [
+          158.0,
+          244.5
+        ],
+        "leftContact": [
+          153,
+          244.5
+        ],
+        "coloredArea": 38
+      }
+    },
+    {
+      "frame": 15,
+      "sourceBounds": [
+        1591,
+        1605,
+        1913,
+        2003
+      ],
+      "completeSourceSilhouette": true,
+      "crossesNominalCell": false,
+      "sourceFrame": 15,
+      "keyframeSha256": "baab029df65b13e61013c8c532a99d1c987708ba1cc661b0e8b15fc2112effc5",
+      "runtimeSha256": "4fa589ffb722779190ada586095623180298d18585e9e686992d5b8417045579",
+      "mouthGeometry": {
+        "bbox": [
+          152,
+          243,
+          162,
+          247
+        ],
+        "center": [
+          157.0,
+          245.0
+        ],
+        "leftContact": [
+          152,
+          245.0
+        ],
+        "coloredArea": 35
+      }
+    }
+  ]
+}

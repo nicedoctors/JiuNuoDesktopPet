@@ -1,0 +1,22 @@
+{
+  "action": "bare_kick",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-v1/bare_kick_prompt.txt",
+  "promptSha256": "f457202735aecbed9fb1e54399683bf4cb72e5395152d8e58a9c2c06b74ebe24",
+  "image": "source-pranks-v1/bare_kick_sheet_api.png",
+  "outputSha256": "e20c6e4a7922ec1bc0f73d079a8d52e1f5351feff83db9d72ab23a432fdc93f9",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:09:10.678Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

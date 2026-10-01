@@ -1,0 +1,24 @@
+Use the uploaded character image as the strict identity and costume reference. Create a professional 2D game animation sprite sheet for exactly the same chibi girl: enormous rounded head, pale warm face, long fluffy gray-blue hair, red-and-white shrine-maiden-like outfit with the same large red bow, short dark skirt, and two tiny rounded feet. Extend the reference into a complete full body while preserving its design language.
+
+OUTPUT CONTRACT (must follow exactly):
+- one square 2048 x 2048 sprite sheet, exactly 4 columns by 4 rows, exactly 16 equal cells
+- animation order is left-to-right, then top-to-bottom
+- exactly one complete character in every cell
+- same character design, colors, costume, hair length, outline weight, body proportions and camera scale in all 16 cells
+- every frame is full body; both tiny feet remain clearly visible, including standing poses
+- both eyes preserve the reference's solid filled pink-to-pale-blue gradient with no separate pupils; never hollow, blank, white-only or transparent
+- consistent ground/baseline and generous equal padding; nothing touches or crosses a cell boundary
+- no captions, letters, numbers, labels, guides, borders, grid lines, props, particles, shadows, scenery or extra characters
+- every cell background is perfectly flat, uniform chroma magenta #FF00FF, with no texture, gradient, antialias haze, shadow or glow in the background
+- crisp clean anime line art, compact desktop-pet silhouette, very soft mochi/squishy body, cute and appetitive personality
+- poses and facial acting are exaggerated and readable at 128 pixels, but identity and costume do not drift
+- this is one coherent continuous 16-frame animation, not a collection of unrelated illustrations; looping actions must connect frame 16 smoothly back to frame 1
+- in every cell the complete silhouette occupies at most 68 percent of cell height and 74 percent of cell width, with at least 14 percent empty magenta above the highest hair point and generous side clearance; never crop the head, hair, sleeves or feet
+
+ANIMATION: one non-looping, full 16-frame HUNGRY TANTRUM ROLL performed in place on an invisible Windows ledge. She starts upright, curls into a compact soft mochi ball, completes one readable sideways barrel-roll/somersault on the floor, then springs back upright. Draw NO floor, window, food, icon or prop. The result must be funny, irresistibly cute, shamelessly hungry, Q-bouncy and soft—not hurt, dizzy, creepy or distressed.
+
+IDENTITY AND ROTATION LOCK: preserve the exact enormous round head, tiny body, long gray-blue hair, red-and-white outfit, large bow and filled pupil-less gradient eyes throughout. Rotate the WHOLE compact clothed character as one connected bundle; do not independently spin or detach the head. Hair, bow and sleeves wrap softly around the rolling silhouette and follow one beat late without covering the face in every frame. Keep the character center fixed and the invisible ground contact stable. Both tiny feet are visible in upright and crouched frames and remain readable as small tucked feet during the rotation. No long neck, no exposed belly, no underwear and no missing costume pieces.
+
+EXACT FLOW: frame 1 upright hungry pout with both feet planted; frame 2 deep 6-percent mochi squash; frame 3 crouch and tip RIGHT by 15 degrees; frame 4 tip 35 degrees with hair spreading at contact; frame 5 side pose around 60 degrees; frame 6 curled diagonal around 90 degrees; frame 7 compact roll around 120 degrees; frame 8 upside-down-ish around 155 degrees with the skirt and hair still modestly enclosing the body; frame 9 passes 190 degrees; frame 10 reaches 225 degrees; frame 11 reaches 270 degrees; frame 12 reaches 315 degrees; frame 13 returns to a low upright crouch with a wide jelly squash; frame 14 elastic rebound upward; frame 15 cheeks and bow overshoot; frame 16 exact stable upright hungry settle. Adjacent rotation changes are small, continuous and consistent in one direction. Exaggeration comes from the round mochi silhouette, cheek compression and delayed hair/bow wobble.
+
+STRICTLY FORBIDDEN: lying still for multiple middle frames, teleporting, changing roll direction, detached head/hair/bow, bare skin, exposed underwear, pain, injury, tears, stars, spiral eyes, new pupils, hollow eyes, tongue, drool, food, icon, floor, window, shadow, text, punctuation, motion lines, particles, props, extra characters or cropped body parts.

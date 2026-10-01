@@ -1,0 +1,22 @@
+{
+  "action": "jump",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api-jump-v2/jump_prompt.txt",
+  "promptSha256": "d932e20251fd224ee0339becbea783ebebf759fdd2609a28db9c1f8b9e178733",
+  "image": "source-api-jump-v2/jump_sheet_api.png",
+  "outputSha256": "5ae724530e7f552bd9cb8650dccc94432c496106f1110e037d4783671a8e1909",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:56:07.374Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}

@@ -1,0 +1,22 @@
+{
+  "action": "charge",
+  "model": "gpt-image-2",
+  "transport": "bundled-imagegen-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-pranks-charge-v2/charge_prompt.txt",
+  "promptSha256": "7bb02ea1dd3996a3d0dc286e50b0a737044a4f0f992f994e9f1f63259bc2a949",
+  "image": "source-pranks-charge-v2/charge_sheet_api.png",
+  "outputSha256": "c5ff1d1aa70eb1a5c93408f89c87c8f5dc5b12aa096a73e76fc9f28f120c77bc",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T05:15:11.87Z",
+  "lineagePolicy": "original-image-only; generated images never model inputs"
+}

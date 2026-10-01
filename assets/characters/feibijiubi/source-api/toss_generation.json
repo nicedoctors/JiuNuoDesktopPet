@@ -1,0 +1,22 @@
+{
+  "action": "toss",
+  "model": "gpt-image-2",
+  "transport": "direct-cli",
+  "sourceImage": "original.png",
+  "sourceSha256": "6b991b530a6c9ab038c762f56a22328d53b8615da1e59f7eace6e3e64139f815",
+  "prompt": "source-api/toss_prompt.txt",
+  "promptSha256": "17ab38c45d16d669e48b781862d06ad3e25a6bae88e7e999ac2e8acc69262c8c",
+  "image": "source-api/toss_sheet_api.png",
+  "outputSha256": "ae0b3ea988cb59d52152ac95c144f3c3353e863f0a1921ad2c6be1052ab2d8a7",
+  "size": [
+    2048,
+    2048
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frameCount": 16,
+  "generatedAt": "2026-09-07T03:39:33.269Z",
+  "lineagePolicy": "original-image-only; generated images are never model inputs"
+}
