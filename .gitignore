@@ -27,3 +27,8 @@ assets/characters/*/source-*/generation-status*.json
 *.pem
 *.key
 privacy-backup*/
+
+# Desktop test captures may contain unrelated windows and private information.
+assets/sprites/previews/*live*.png
+assets/sprites/previews/*proof*.png
+assets/sprites/previews/native_delete_*.png
